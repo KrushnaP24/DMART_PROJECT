@@ -1,0 +1,2001 @@
+customer_id,customer_name,age,gender,city
+1,neha,,male, 
+2,meera,-,f,mumbai
+3,rohan,,m,nagpur
+4,meera,,, 
+5,meera, ,female,pune
+6,priya, ,m, 
+7,meera,-,male,thane
+8,priya,,,mumbai
+9,meera,-,female,nagpur
+10,meera,-,f,nagpur
+11,priya,32,male,nashik
+12,sai, ,male,thane
+13,pratik,-,f,mumbai
+14, ,-,male, 
+15,sai,31,,nagpur
+16,neha, ,female,nagpur
+17,priya,,male, 
+18,pratik,-,m,nagpur
+19,meera, ,male,nashik
+20,priya,-,female,mumbai
+21,pratik,28,,pune
+22,sai,,male,nagpur
+23,madhuri,43,,mumbai
+24,meera,,female,mumbai
+25,sai,,male,pune
+26,priya,,male,nagpur
+27,meera,37,female, 
+28,priya,-,,pune
+29,pratik,-,female,nagpur
+30,priya,-,f,nashik
+31,meera,-,male,thane
+32,priya,-,female,nashik
+33,madhuri, ,male,thane
+34,rohan, ,male, 
+35,neha,24,male,nashik
+36,meera, ,male,nashik
+37,meera,-,,nashik
+38,pratik,,female,nagpur
+39,rohan,-,m,nagpur
+40,akash,-,female,nashik
+41,priya, ,female,nagpur
+42,akash,,m,mumbai
+43,madhuri,37,f,pune
+44,meera, ,,nagpur
+45,madhuri,,female,nashik
+46,neha,,male, 
+47,priya,,female,pune
+48,madhuri,,male,nashik
+49,madhuri,,male,thane
+50,pratik, ,male,nagpur
+51,rohan,,female,pune
+52,madhuri, ,f,pune
+53,neha, ,male,nagpur
+54,madhuri,-,male,nashik
+55,madhuri,,m,thane
+56,neha,-,male,nagpur
+57, , ,f,nashik
+58,madhuri,-,f, 
+59,priya,-,male,pune
+60,priya,21,f,nagpur
+61,madhuri,36,f,nashik
+62,akash, ,male,thane
+63,madhuri,46,male,pune
+64, ,36,f,mumbai
+65,meera,48,m,thane
+66,madhuri,48,,thane
+67, ,-,male, 
+68,pratik, ,m,nagpur
+69,priya, ,female,thane
+70,akash,-,m,nagpur
+71, , ,m,nashik
+72, ,,,thane
+73,sai,-,,pune
+74,priya,,male, 
+75,madhuri,,m,thane
+76,madhuri,-,m,thane
+77,madhuri,,male,nashik
+78,neha,,f,pune
+79,meera, ,female,pune
+80,priya,,m, 
+81,rohan,,male,thane
+82,meera, ,m,thane
+83,akash,20,m,mumbai
+84,priya,40,m,pune
+85,rohan,46,f,nashik
+86,pratik,-,male,nagpur
+87, ,-,female,pune
+88,sai,-,female,pune
+89,priya,43,female,pune
+90,priya,-,f,mumbai
+91,meera,54,f,nagpur
+92,pratik,47,f,pune
+93, ,56,female,pune
+94,rohan,-,m,mumbai
+95,meera, ,f, 
+96,rohan,33,, 
+97,rohan,41,female, 
+98,madhuri,-,f,thane
+99,priya, ,m,nagpur
+100,pratik,-,m,mumbai
+101,pratik, ,f, 
+102,priya,,female,nashik
+103,rohan, ,male, 
+104,meera,-,male,mumbai
+105, ,32,male,nagpur
+106,pratik,-,male,nashik
+107,priya, ,female,nagpur
+108,rohan,-,f,nashik
+109,neha, ,f,pune
+110,sai,33,,mumbai
+111,priya,,male,pune
+112,neha,,male,mumbai
+113,pratik, ,,mumbai
+114,akash,,,thane
+115,meera,57,female,nagpur
+116,pratik,31,m, 
+117,madhuri,-,male,mumbai
+118,rohan,25,, 
+119,meera,49,male,nashik
+120,sai,,,nagpur
+121,neha, ,m,mumbai
+122,rohan,28,female,nagpur
+123,madhuri,,,pune
+124,neha,51,m,nashik
+125,sai, ,female,mumbai
+126,sai, ,f,nagpur
+127,pratik,,male,pune
+128,madhuri,23,female,nagpur
+129, ,,female,pune
+130,akash,28,male, 
+131,akash,,,thane
+132,neha,55,,nashik
+133,madhuri,51,m, 
+134,madhuri,-,male, 
+135,neha,31,male,nagpur
+136,priya, ,m,nashik
+137, , ,m,mumbai
+138,madhuri,39,, 
+139, , ,m,thane
+140,rohan, ,m,thane
+141,neha,-,m,nagpur
+142, ,27,f,pune
+143,neha,30,m,nagpur
+144,madhuri,36,male,mumbai
+145, ,,f,mumbai
+146,neha,46,male,mumbai
+147,rohan,22,f,nashik
+148,madhuri,,f,mumbai
+149,neha,,m,thane
+150,neha,19,female,nagpur
+151,sai, ,female, 
+152,madhuri, ,female, 
+153,akash,,female, 
+154,neha,-,male,thane
+155,priya,,,nashik
+156,sai,33,female,nagpur
+157,neha, ,m,thane
+158,pratik,31,female,nashik
+159,priya, ,female,mumbai
+160,neha,43,female,pune
+161,madhuri,21,f,pune
+162,neha, ,, 
+163,rohan,33,female,nagpur
+164,priya,-,,mumbai
+165,meera,41,male,nashik
+166,pratik, ,male,mumbai
+167,pratik,,f,mumbai
+168,rohan, ,male, 
+169,meera,-,f,nashik
+170, , ,f,mumbai
+171,rohan, ,,nagpur
+172,sai,,f, 
+173,sai,,f,mumbai
+174,meera,60,, 
+175,rohan,-,f,pune
+176,pratik,26,female,pune
+177,priya, ,f,nashik
+178,meera,,f,thane
+179,meera,,female, 
+180,rohan,,female,nagpur
+181,sai, ,female,pune
+182,pratik,,female,nashik
+183,neha, ,,nashik
+184,priya, ,, 
+185,pratik,25,male,pune
+186,priya,-,, 
+187,neha, ,f,thane
+188,neha,55,male,nagpur
+189, , ,m,pune
+190, ,-,,mumbai
+191,madhuri,-,female,nagpur
+192,sai,45,female,nagpur
+193,pratik,,female,nashik
+194,rohan,42,,pune
+195,akash,-,male,pune
+196,rohan,24,,nashik
+197,rohan, ,m,mumbai
+198,sai,,,pune
+199,pratik,-,male,nashik
+200,meera,,,nagpur
+201,pratik, ,female,thane
+202,sai,,m,thane
+203, ,-,male,nashik
+204,meera,,f,thane
+205,pratik, ,m,nagpur
+206,neha,50,,mumbai
+207,meera,26,f,nagpur
+208,meera,-,,nashik
+209,rohan,-,male, 
+210,rohan, ,female,nashik
+211,meera,34,m, 
+212,madhuri,,female,nagpur
+213,meera, ,male,thane
+214, ,,male,pune
+215,rohan,,male,nagpur
+216, ,,,pune
+217,pratik,27,f,pune
+218,sai,,female,mumbai
+219,rohan,-,,nashik
+220,priya,-,,mumbai
+221,rohan,37,m,thane
+222,akash,40,m,pune
+223,madhuri, ,female,nashik
+224,priya,-,female,thane
+225,pratik,-,,thane
+226,rohan,29,m,nagpur
+227,rohan,,f,mumbai
+228,neha,,female,mumbai
+229,madhuri,-,f,nashik
+230,pratik,-,female,nagpur
+231,neha,,m,mumbai
+232, ,33,male, 
+233,sai,51,m,nagpur
+234,akash, ,f,pune
+235,sai,46,male,thane
+236,akash,,f,nashik
+237,madhuri,-,female,thane
+238,neha,18,f,nagpur
+239,priya,-,male,pune
+240,pratik, ,male,pune
+241,madhuri,,m,pune
+242,rohan,-,f,nashik
+243, , ,female,nagpur
+244,rohan,,male,mumbai
+245,sai,59,,mumbai
+246,akash,,,nagpur
+247, , ,m,mumbai
+248,neha,-,m,pune
+249, ,,female,mumbai
+250, , ,m,pune
+251,madhuri, ,female,mumbai
+252,pratik,18,,nagpur
+253,neha,,male,nashik
+254,priya, ,f,nashik
+255,pratik,,m,thane
+256,rohan,42,f,nagpur
+257,meera,32,m,mumbai
+258,neha,49,f,mumbai
+259,sai, ,f,nashik
+260,neha,-,m,mumbai
+261,madhuri,41,,thane
+262, ,,,nashik
+263,priya,26,f,mumbai
+264,pratik, ,female,nagpur
+265,meera, ,f,thane
+266,pratik,-,male,pune
+267,rohan,-,f,nagpur
+268, , ,m, 
+269,sai, ,f,pune
+270,madhuri,-,female,mumbai
+271,akash,,female,nashik
+272,rohan, ,f,pune
+273,neha,20,m,nagpur
+274, ,-,,thane
+275,pratik,,f, 
+276,sai,-,male, 
+277,pratik,,f,nagpur
+278,neha,-,m,nashik
+279,sai,-,female,thane
+280, , ,m,mumbai
+281,priya, ,m,nashik
+282,pratik,55,m,thane
+283,meera,29,female,nagpur
+284,sai,,m, 
+285,neha,,f,nagpur
+286,akash,18,female, 
+287, ,-,, 
+288,pratik,,f,pune
+289,pratik,,f,pune
+290,rohan, ,female,nagpur
+291,sai,-,f,nashik
+292,rohan, ,f,mumbai
+293,meera,,male,mumbai
+294,pratik,,female,nashik
+295,rohan, ,m, 
+296, ,,m,nashik
+297,rohan,,m,nashik
+298,sai,-,female,nashik
+299,meera,45,male,nagpur
+300,madhuri, ,f,nagpur
+301,madhuri,-,f, 
+302,priya,,male,pune
+303,neha,,m, 
+304, , ,f,pune
+305, , ,male,thane
+306,madhuri,46,m,thane
+307,rohan,55,,nashik
+308,neha,60,female,pune
+309,sai,,female, 
+310,madhuri,,female,thane
+311,akash,51,m,nagpur
+312,madhuri,-,m, 
+313,neha,-,female,nashik
+314,sai, ,m, 
+315,neha,48,, 
+316,pratik, ,, 
+317,rohan, ,female, 
+318,meera, ,male,mumbai
+319,madhuri,-,m, 
+320,priya,-,f,pune
+321,pratik,,, 
+322,rohan, ,f,nashik
+323,sai,-,f,nashik
+324, ,33,male, 
+325,madhuri,48,female, 
+326,akash,45,, 
+327,madhuri,-,m,nashik
+328,akash,,female,nashik
+329,madhuri,,f, 
+330,pratik, ,female,pune
+331,priya,-,m, 
+332,akash,,female,nagpur
+333,rohan,-,m,pune
+334,madhuri, ,female,thane
+335,madhuri,-,male,mumbai
+336,rohan,42,m, 
+337, ,-,,thane
+338, ,20,m, 
+339,sai,-,,nashik
+340,sai, ,,nagpur
+341, ,22,m,pune
+342, , ,,thane
+343, ,-,m,mumbai
+344,akash,25,m, 
+345,madhuri,56,f, 
+346,neha,-,female,nagpur
+347, , ,female,nagpur
+348,sai,23,female,pune
+349,madhuri, ,m,nashik
+350,meera,-,male,nagpur
+351,rohan,,f,nagpur
+352,neha, ,,thane
+353,sai,24,female,nashik
+354,rohan, ,male, 
+355,rohan,,male, 
+356,sai,,male,nagpur
+357,rohan,50,m,thane
+358,pratik, ,,nashik
+359, ,51,f,mumbai
+360,rohan,55,female,pune
+361,sai,,,thane
+362,pratik, ,male,nagpur
+363,meera,-,male, 
+364,neha,,male,pune
+365,rohan, ,m,nashik
+366,madhuri,21,f,pune
+367,sai, ,,thane
+368,rohan,,female,nashik
+369,meera,,f,thane
+370,rohan,,f,nagpur
+371,meera,-,,pune
+372,akash,58,f,nagpur
+373,sai,-,m, 
+374,priya,-,m, 
+375,madhuri,-,f,nashik
+376,priya,-,male, 
+377,madhuri,33,male,mumbai
+378,akash,-,,thane
+379,madhuri,,f,nashik
+380,meera,24,male, 
+381,sai,53,m,pune
+382, ,-,,pune
+383, ,23,female,mumbai
+384,priya,,male,nashik
+385,meera,,male,nagpur
+386,akash,-,f,mumbai
+387,sai,57,female, 
+388,priya, ,m,nashik
+389,meera,,, 
+390,neha,-,f, 
+391,madhuri,26,female, 
+392,akash,39,m,nagpur
+393,pratik, ,m,mumbai
+394, ,-,male,mumbai
+395,priya,-,,thane
+396,akash,,female,thane
+397,akash,,male,nagpur
+398,pratik,-,f,nashik
+399,akash,,male,thane
+400,sai,56,f,thane
+401,madhuri,,f,nagpur
+402, ,35,female,mumbai
+403,neha,24,female, 
+404,neha,22,f,pune
+405,madhuri,,f, 
+406, ,49,m,nagpur
+407,akash, ,female,nagpur
+408,meera,-,,nashik
+409,madhuri,,male,thane
+410, ,-,f, 
+411,meera,-,f,pune
+412,sai, ,, 
+413,pratik,,m,mumbai
+414,madhuri,,,nashik
+415,madhuri, ,f,pune
+416,akash,-,female,thane
+417,sai, ,,nashik
+418,sai,,,thane
+419,pratik,52,f,nashik
+420,meera, ,m,pune
+421,neha, ,female,pune
+422,pratik,,m, 
+423,akash,-,f,nagpur
+424,neha,,,nashik
+425,neha,,,nagpur
+426,pratik,,,pune
+427,pratik,22,, 
+428,madhuri,44,male,mumbai
+429,neha, ,,nagpur
+430,pratik,44,,nashik
+431,akash,,female, 
+432,madhuri, ,male,mumbai
+433,madhuri,27,,pune
+434,rohan, ,,pune
+435,pratik,54,female, 
+436,priya,-,,thane
+437, , ,male,mumbai
+438,madhuri, ,m,mumbai
+439,neha, ,female, 
+440, ,33,m, 
+441, ,38,female,nashik
+442,priya, ,f,nagpur
+443,meera, ,female,thane
+444,rohan, ,f,nagpur
+445,meera,,m,thane
+446,neha,32,m,thane
+447,meera,,m,nashik
+448,meera,56,,nagpur
+449,meera,-,male,nagpur
+450,sai,21,m,nashik
+451,pratik,44,f,nagpur
+452, ,-,m,nagpur
+453,neha, ,male,nashik
+454,madhuri,19,male,pune
+455,sai,,m,nagpur
+456,pratik,32,male,nagpur
+457, ,-,f,thane
+458,neha,23,f,thane
+459,sai,-,f,pune
+460,neha,,male,mumbai
+461,madhuri,,m,nashik
+462,madhuri,22,f,mumbai
+463,akash,,m,pune
+464,madhuri,42,,nagpur
+465, ,-,female, 
+466,priya,-,,nashik
+467,meera,-,male,nagpur
+468,rohan,,male, 
+469,madhuri,,m,nagpur
+470,akash,-,f,mumbai
+471,sai,,female,thane
+472,rohan,-,f,thane
+473,akash, ,m,mumbai
+474,rohan, ,male,nashik
+475,neha, ,,nashik
+476, ,,m,nashik
+477,priya,-,m, 
+478,madhuri, ,f,mumbai
+479, ,39,f,thane
+480,meera,21,f,nagpur
+481,madhuri,,m,mumbai
+482,madhuri,,m,mumbai
+483,akash,,female,pune
+484,priya,45,f,thane
+485,pratik,,male,thane
+486,neha,37,f,pune
+487,rohan,52,f,nashik
+488,madhuri,31,f,nagpur
+489,meera,-,m,nagpur
+490,meera, ,female,pune
+491,meera,-,m,pune
+492,priya,,,nashik
+493, ,21,male,mumbai
+494,priya,-,f,nagpur
+495,pratik,-,male,nagpur
+496,sai,30,m,thane
+497,rohan,-,m,nagpur
+498,meera, ,m,nashik
+499, ,,,thane
+500,meera,,f,mumbai
+501,madhuri,25,m,mumbai
+502,rohan,-,male,nashik
+503,madhuri,-,,nagpur
+504,pratik, ,,nashik
+505,meera,,f,thane
+506,priya,-,f,nashik
+507,meera,,female, 
+508,neha, ,male,nagpur
+509,meera, ,female,pune
+510,rohan,-,,pune
+511,rohan,-,f, 
+512,sai,-,male,mumbai
+513,priya,-,,pune
+514,rohan,36,male,nashik
+515,sai,,f,nagpur
+516,sai,,male,pune
+517,akash,,female,mumbai
+518,pratik, ,,mumbai
+519,madhuri, ,f,pune
+520,priya,54,male,nagpur
+521,sai,-,female,thane
+522,sai,31,,nashik
+523,neha,-,female,mumbai
+524, ,50,,nagpur
+525,rohan,-,female, 
+526,sai,,,pune
+527,priya,,f,mumbai
+528,sai, ,female, 
+529,priya,,,mumbai
+530,sai,20,f,pune
+531, ,,female,thane
+532,akash,,,nashik
+533,madhuri,20,male,thane
+534, ,-,male,mumbai
+535, , ,female,nashik
+536,priya, ,f,nashik
+537, ,-,,thane
+538,priya,,m,nashik
+539,pratik,37,male,nagpur
+540,madhuri,,female,pune
+541,meera,-,male,nashik
+542,madhuri,57,f,nashik
+543,meera,,f,nagpur
+544,akash, ,,pune
+545,priya,-,m,mumbai
+546,madhuri,-,female,thane
+547, ,-,m,mumbai
+548,sai,-,f,nashik
+549,priya, ,male, 
+550,rohan,54,female, 
+551,rohan,-,,mumbai
+552,akash,49,male, 
+553,meera,47,,nashik
+554,neha,23,,nashik
+555,sai, ,m,nashik
+556,sai, ,,thane
+557,madhuri,,female, 
+558,rohan,-,male,nagpur
+559,pratik,57,m,thane
+560,rohan, ,male,mumbai
+561, ,54,f,thane
+562,madhuri,,f,thane
+563,sai,,m, 
+564,madhuri,,f, 
+565,meera, ,m, 
+566,rohan, ,m,nagpur
+567,pratik,45,female,nashik
+568,madhuri, ,,mumbai
+569,pratik,,m,pune
+570,meera,18,female, 
+571,priya,,male, 
+572,rohan,20,m,pune
+573, , ,male,pune
+574,meera,-,female, 
+575,rohan,21,,nashik
+576,madhuri,-,f,mumbai
+577,pratik,-,male,nashik
+578, ,-,,thane
+579, , ,female,thane
+580,akash,33,male,thane
+581,neha,,m,thane
+582,pratik,49,m,mumbai
+583,meera,-,,nashik
+584,neha, ,,thane
+585,akash,,male,pune
+586,meera,-,female,mumbai
+587,priya,-,m,thane
+588,sai,,,nashik
+589,neha,47,m,pune
+590,neha,-,male,nagpur
+591,madhuri,-,male,pune
+592,sai,18,m,nagpur
+593,priya,-,female,pune
+594,madhuri, ,female,mumbai
+595,priya,-,male, 
+596,priya,40,female, 
+597,neha, ,male,mumbai
+598,neha,-,f,nagpur
+599,sai, ,,nashik
+600,priya,,male,nashik
+601,madhuri,41,f,thane
+602, ,,f,nagpur
+603,pratik, ,f,pune
+604,neha,,female,thane
+605,meera, ,, 
+606,akash,41,f,nashik
+607,meera,-,,nagpur
+608,pratik,27,female,mumbai
+609,akash,,f, 
+610,akash,34,f,thane
+611,neha,-,,thane
+612,sai, ,m, 
+613, ,-,,pune
+614,neha,,male,mumbai
+615,akash,-,,nashik
+616,priya, ,male,nashik
+617,neha,-,male,nashik
+618,pratik,27,male,nashik
+619,meera,,male,mumbai
+620,sai,,male,thane
+621,neha, ,m, 
+622,akash,-,male, 
+623,meera, ,male,thane
+624,meera,-,f,nagpur
+625,sai,48,m, 
+626,pratik,-,male,nashik
+627,madhuri, ,male, 
+628, ,,female,mumbai
+629,sai,-,f,thane
+630,rohan,,female,mumbai
+631,rohan,-,male, 
+632,sai,,,nashik
+633,akash,-,male,pune
+634,madhuri, ,f,thane
+635,neha,,f, 
+636,priya,,female,nagpur
+637,akash,56,f,thane
+638,pratik,50,female,nagpur
+639,sai,34,f,nagpur
+640,akash,-,f, 
+641,madhuri,28,f,nashik
+642, ,25,male,mumbai
+643,neha,41,male,nashik
+644,meera,,m,nashik
+645,sai,30,m,mumbai
+646,rohan,,,nagpur
+647,neha,-,female,nagpur
+648,sai,,, 
+649,sai,-,,nashik
+650,priya, ,m,pune
+651,meera,43,female,thane
+652,pratik, ,female,thane
+653,neha,,male,mumbai
+654,neha, ,male,nashik
+655,sai,-,female,nashik
+656,akash, ,female,nagpur
+657,sai,,,mumbai
+658,madhuri,-,f, 
+659,meera,,f,thane
+660,neha, ,f,pune
+661,rohan,-,,nashik
+662,priya,,,thane
+663,priya,-,,pune
+664,madhuri,-,male,nashik
+665,neha, ,female,nagpur
+666,madhuri,,male,nagpur
+667,meera, ,male,thane
+668,akash,22,male,nashik
+669,pratik, ,,pune
+670, ,52,,pune
+671,neha,,f,nashik
+672,pratik,-,m,thane
+673,akash,47,female,thane
+674,meera, ,female,mumbai
+675,pratik,60,male,nagpur
+676,pratik, ,f,pune
+677, , ,m,mumbai
+678,meera,,m,pune
+679,pratik,,female,mumbai
+680,madhuri, ,m,nagpur
+681, , ,f, 
+682,akash,-,male,nagpur
+683,meera,,male,nashik
+684,pratik, ,male,mumbai
+685,meera,-,f,thane
+686,neha,,female,thane
+687,pratik,-,f,pune
+688,meera,-,f,nashik
+689, ,30,male,pune
+690, ,-,female,mumbai
+691,priya,50,m,pune
+692,priya,57,female,mumbai
+693,sai,43,female,nashik
+694,pratik,-,female,pune
+695,rohan,,male,pune
+696,pratik,28,male,pune
+697,priya, ,m, 
+698,madhuri, ,f,nashik
+699,pratik,-,m,thane
+700, ,-,m,pune
+701,akash,,female,nashik
+702,rohan, ,f,pune
+703,madhuri,,m,thane
+704,akash,-,female,nashik
+705,priya,23,female,nagpur
+706,akash,43,m,thane
+707,madhuri,59,m,pune
+708,akash,-,f,mumbai
+709,pratik, ,,mumbai
+710,rohan, ,male,thane
+711,sai,,m,thane
+712, ,,,pune
+713,akash,-,f,thane
+714,priya, ,male,pune
+715,meera, ,m,pune
+716,madhuri,-,f,thane
+717,madhuri,25,,pune
+718,akash,,,nagpur
+719,madhuri,,male,pune
+720,rohan,-,female,pune
+721,pratik,-,,thane
+722,madhuri,28,male,nagpur
+723,meera, ,f,mumbai
+724, ,-,f,pune
+725,neha,-,male,thane
+726,priya,,m,nashik
+727,akash,-,,mumbai
+728,sai, ,male,pune
+729,madhuri,-,male,thane
+730,akash,,female,thane
+731,sai, ,male,mumbai
+732,pratik,-,,thane
+733, ,,male,nagpur
+734, ,21,m,nashik
+735,sai,-,f,mumbai
+736,rohan, ,female,nashik
+737,akash,,f,thane
+738,meera, ,,nagpur
+739, , ,male,nashik
+740,neha,-,f, 
+741,madhuri,-,m, 
+742,pratik,44,female, 
+743, , ,,pune
+744,madhuri,-,f,nashik
+745,neha,,f, 
+746,akash,,f,nashik
+747,akash,,f,mumbai
+748,madhuri,-,f,mumbai
+749,madhuri,-,f,mumbai
+750,neha,-,m,nashik
+751,priya,,male, 
+752,madhuri, ,,thane
+753,akash,,m,mumbai
+754,rohan, ,male,thane
+755,rohan,-,female,pune
+756,neha,-,male,nagpur
+757,sai, ,m,nagpur
+758,akash,19,male,nagpur
+759,sai,,female,pune
+760,meera,51,male,thane
+761,akash,-,male,nashik
+762, ,-,m,thane
+763,pratik,,,nashik
+764,meera,22,,thane
+765, ,55,,nashik
+766,rohan,,female,nagpur
+767, ,-,f,nagpur
+768,priya,-,female,pune
+769,neha,-,female,thane
+770,akash,50,, 
+771,pratik, ,f,mumbai
+772,sai,,female,nashik
+773,priya,-,female,pune
+774,neha,25,,mumbai
+775,akash,40,,nashik
+776,pratik, ,male, 
+777,sai,50,,nashik
+778,neha,,, 
+779,sai,-,f,pune
+780,pratik,,, 
+781,neha, ,m,mumbai
+782,rohan,,f,pune
+783,meera,,, 
+784,akash,-,male,mumbai
+785,priya,30,, 
+786,neha,-,f,pune
+787,rohan,50,f,thane
+788,madhuri, ,female,nashik
+789, ,,m,thane
+790,akash,38,m,nagpur
+791,akash,33,female,thane
+792,neha,,,nashik
+793,madhuri,50,female,pune
+794,madhuri,,,thane
+795,rohan,-,male,mumbai
+796,meera, ,female,mumbai
+797,rohan,-,f,thane
+798,sai,26,m, 
+799,rohan,-,m, 
+800,akash,,male,nagpur
+801,akash, ,male,thane
+802,neha, ,f, 
+803,akash,,m,thane
+804, ,48,m,nashik
+805,madhuri, ,m, 
+806,sai,,male,nagpur
+807, ,23,,thane
+808,neha,42,male,nagpur
+809, ,,m,thane
+810,akash, ,f,mumbai
+811,pratik,35,m,mumbai
+812,madhuri,50,male,nagpur
+813,meera,-,male,pune
+814,rohan, ,m, 
+815, ,32,female,nagpur
+816,priya,40,female,nashik
+817,neha,-,female,mumbai
+818,priya,46,f,nagpur
+819,neha, ,m,nagpur
+820, , ,m,nagpur
+821, , ,female,nashik
+822,priya,,, 
+823,sai,39,,nagpur
+824,pratik,30,female,nashik
+825,meera,,m,nagpur
+826,priya, ,m,pune
+827,neha,43,m,nashik
+828,priya,,, 
+829, , ,female,nagpur
+830,meera, ,male,nagpur
+831,meera,53,male, 
+832,rohan,,, 
+833,priya,-,f,mumbai
+834,rohan,,female,nashik
+835,madhuri, ,f,nagpur
+836,meera,43,male,nagpur
+837,madhuri,32,f,nagpur
+838, , ,m,pune
+839,priya,60,,mumbai
+840,rohan,,f,mumbai
+841,madhuri,23,,mumbai
+842,neha,35,m, 
+843,pratik,,f,nashik
+844,priya,19,female,nagpur
+845,akash,-,m,pune
+846, ,-,m,nagpur
+847,akash,-,f,nashik
+848, ,46,male,pune
+849,akash,,female,nashik
+850,sai,,m, 
+851,akash,,female,nashik
+852,priya,-,female,thane
+853,meera,-,f,pune
+854,neha,,male,mumbai
+855,meera,,male,mumbai
+856,akash,-,f,thane
+857,pratik, ,male, 
+858, , ,f,thane
+859,akash,-,male,nagpur
+860,priya,-,f,mumbai
+861,akash, ,,nagpur
+862,pratik, ,female,pune
+863,neha,,f, 
+864,priya,,f,thane
+865,neha,,f, 
+866,priya, ,male, 
+867,meera,-,f, 
+868,madhuri,-,m,mumbai
+869,meera,,m,mumbai
+870, , ,female,nagpur
+871, ,,m,nagpur
+872,sai,,female,nashik
+873,sai,,f,pune
+874,akash,31,female,thane
+875,sai,-,female,pune
+876,pratik,58,m,thane
+877, ,38,male, 
+878,meera,,female,nagpur
+879, , ,f,nagpur
+880,rohan,,female,nagpur
+881,madhuri,59,m,mumbai
+882,meera,40,female,nagpur
+883,neha,-,f,nagpur
+884,rohan, ,m,nashik
+885,meera, ,female,nashik
+886, ,28,female, 
+887,sai,-,male, 
+888,meera,,f,mumbai
+889,pratik,,,nashik
+890,meera,,male,nashik
+891, , ,m,mumbai
+892,pratik,,m,nagpur
+893,akash,-,male, 
+894,akash, ,,thane
+895,akash,,m,nashik
+896,madhuri,,m,nashik
+897, ,,f,pune
+898,neha, ,,pune
+899, , ,m,nashik
+900,rohan,-,f,nagpur
+901,priya,,, 
+902,sai,,m,nashik
+903,rohan,36,m,thane
+904,madhuri,-,male,pune
+905, ,-,m,mumbai
+906,neha,,,nashik
+907,neha,-,,mumbai
+908,akash,54,male,mumbai
+909,neha, ,f,mumbai
+910,meera,37,female,nagpur
+911,madhuri, ,, 
+912, ,41,female,pune
+913, ,48,f,nagpur
+914,akash,,male, 
+915, ,-,f,pune
+916,rohan,54,f,nashik
+917,pratik,50,m,thane
+918,meera, ,female,nashik
+919,neha,18,f,thane
+920,madhuri,58,,nagpur
+921,madhuri,34,m,nagpur
+922,neha, ,m,nagpur
+923,madhuri,,f,thane
+924,sai,,male,nashik
+925,neha,55,m,mumbai
+926,akash, ,,nagpur
+927,sai,,,mumbai
+928,sai,45,male,pune
+929,neha, ,f,pune
+930,priya,,f, 
+931,meera,,f,nagpur
+932,neha,,male,nagpur
+933,pratik,18,female,nashik
+934, ,,male,pune
+935,rohan,,,thane
+936,neha,26,m,nashik
+937,akash,26,, 
+938,rohan, ,male,mumbai
+939,madhuri,,m,pune
+940,madhuri,-,male,thane
+941,rohan,47,f,pune
+942,rohan,,m, 
+943,sai,-,female,mumbai
+944,priya,19,female, 
+945,neha,,female,pune
+946,madhuri,,f,nagpur
+947, ,55,m, 
+948,meera,-,f, 
+949,priya,43,f, 
+950,sai,,male,pune
+951,priya,46,female, 
+952,priya,,,thane
+953,sai,-,f,nashik
+954,rohan,58,male, 
+955,sai,,m,nagpur
+956,pratik,,female,thane
+957,akash,,,mumbai
+958,sai,-,,nashik
+959,meera,,f, 
+960,pratik,55,,mumbai
+961,akash,40,m,nashik
+962, ,-,m,nagpur
+963,pratik,25,, 
+964,neha, ,f,nashik
+965,madhuri,-,f,nashik
+966, ,56,male,nagpur
+967,akash, ,female,nagpur
+968,pratik,-,m, 
+969, , ,female,nagpur
+970, ,57,male, 
+971,pratik,59,m, 
+972,priya, ,female,nagpur
+973,rohan, ,male,mumbai
+974, ,-,f, 
+975,sai, ,f, 
+976,priya,,male,nagpur
+977, ,-,male,nagpur
+978,neha, ,,nagpur
+979,akash,-,male,nagpur
+980,akash,-,,pune
+981,sai,,male,nashik
+982,pratik, ,male,pune
+983,pratik,-,m, 
+984,meera,27,,pune
+985,priya,-,f,pune
+986,akash, ,male, 
+987,madhuri,,male,thane
+988,priya,,male,nagpur
+989,sai,,female,nashik
+990,meera,,f,nashik
+991,neha, ,female,nashik
+992,meera,-,male,thane
+993,sai, ,female,mumbai
+994,akash, ,f,pune
+995, ,-,m,thane
+996,priya,-,female,nashik
+997, ,,male,pune
+998,pratik, ,male,pune
+999,madhuri,,female,thane
+1000,rohan,,,thane
+1001,sai, ,f, 
+1002,meera,26,m,nashik
+1003,priya, ,f,thane
+1004,sai,-,,pune
+1005,priya,-,,mumbai
+1006,meera,-,f,mumbai
+1007,neha,,male,pune
+1008,priya, ,male, 
+1009, ,-,m,nagpur
+1010,madhuri,36,male,nagpur
+1011,pratik,,f,nashik
+1012,sai,58,,mumbai
+1013,sai,,female,pune
+1014,meera,,f,pune
+1015,pratik,-,male,pune
+1016,sai,,,nashik
+1017,madhuri,19,m,mumbai
+1018,rohan, ,m,thane
+1019,madhuri, ,m,thane
+1020, ,59,f,pune
+1021,neha,39,f,pune
+1022,priya,27,male,nagpur
+1023,meera, ,m,thane
+1024,priya,,,nashik
+1025,meera, ,male,nashik
+1026,rohan,-,m,pune
+1027,pratik,-,f,nagpur
+1028,meera,-,f,nashik
+1029,sai,-,f,nashik
+1030,madhuri, ,,nashik
+1031,pratik,,,nagpur
+1032,sai,,male,thane
+1033,sai,,m, 
+1034,pratik,-,male, 
+1035,priya,,male,mumbai
+1036,priya,,male,thane
+1037,rohan,28,male, 
+1038,sai, ,,mumbai
+1039,akash,60,m,mumbai
+1040,meera,,female,pune
+1041, , ,f,mumbai
+1042,akash,,m,pune
+1043,rohan, ,male,thane
+1044, ,,m,thane
+1045, , ,m,thane
+1046,madhuri,,, 
+1047,madhuri,-,male,pune
+1048,pratik,27,m,thane
+1049,neha,,f,pune
+1050,pratik, ,,nashik
+1051,meera,-,,mumbai
+1052,akash, ,female,mumbai
+1053,priya,44,f, 
+1054, ,60,male,pune
+1055, ,,m,nashik
+1056,sai, ,m,nashik
+1057,priya, ,f,mumbai
+1058,priya, ,female,mumbai
+1059,pratik,,female,nagpur
+1060,meera, ,female,nashik
+1061,sai, ,m,nashik
+1062,meera, ,m,nashik
+1063,madhuri,,m,nashik
+1064,sai,-,female, 
+1065,neha,-,female,nagpur
+1066,akash,-,male,thane
+1067, ,55,m, 
+1068,rohan, ,f,thane
+1069,neha,,,nashik
+1070,sai,30,female,nagpur
+1071,pratik,,m, 
+1072,rohan,-,m,pune
+1073, , ,f,mumbai
+1074,pratik,,female, 
+1075,pratik,,f,mumbai
+1076,madhuri, ,female,thane
+1077,priya,38,m,pune
+1078,akash,-,f,nashik
+1079,akash,31,female,nagpur
+1080,pratik,,,nashik
+1081,rohan,55,male,mumbai
+1082,pratik, ,f,nashik
+1083,madhuri,44,female,pune
+1084,neha, ,male,nashik
+1085,akash,21,m,mumbai
+1086,akash, ,male,mumbai
+1087,sai,-,male,pune
+1088,priya, ,m,mumbai
+1089,priya,18,m, 
+1090,akash,,m,mumbai
+1091,priya,,f, 
+1092,pratik,29,male,nashik
+1093,akash,19,f,nashik
+1094,akash,48,male,pune
+1095,priya,44,female,thane
+1096,akash,,f,mumbai
+1097,priya,34,m,nashik
+1098,madhuri,60,,pune
+1099,rohan, ,f,thane
+1100,sai,-,,nagpur
+1101,neha,43,female,mumbai
+1102,sai,,m,nashik
+1103,akash,51,male,nashik
+1104,neha,-,male,nagpur
+1105,sai,51,female,nashik
+1106, , ,f,mumbai
+1107,rohan, ,female, 
+1108,neha,-,m,nashik
+1109,akash, ,male,mumbai
+1110,neha,57,, 
+1111,rohan,,female,mumbai
+1112,priya,22,m,nagpur
+1113,pratik,,male,pune
+1114,sai, ,male,pune
+1115,meera,34,f,nagpur
+1116, , ,,mumbai
+1117,meera,32,male,thane
+1118,rohan, ,f,thane
+1119,madhuri,-,male,nashik
+1120,meera,-,,nagpur
+1121,pratik,-,male,nagpur
+1122,madhuri,56,, 
+1123,pratik, ,,thane
+1124,madhuri,,m,mumbai
+1125,akash, ,m,nashik
+1126,sai,-,female,thane
+1127,neha,-,,nashik
+1128,pratik,-,f,nagpur
+1129,priya,34,m,pune
+1130,meera, ,female,nagpur
+1131,priya,-,m,thane
+1132,sai,,,nashik
+1133,meera,,m,nashik
+1134,neha,,female,pune
+1135,madhuri,,f,nagpur
+1136, ,50,male,nashik
+1137,pratik, ,f,nashik
+1138,priya, ,female,thane
+1139,sai, ,female,mumbai
+1140,priya,,m,pune
+1141, ,46,, 
+1142,priya,19,,thane
+1143,akash,60,m,pune
+1144,madhuri,28,,pune
+1145,akash,-,m,thane
+1146,neha, ,male,thane
+1147,rohan,-,f,pune
+1148,rohan,,female,nagpur
+1149,priya,26,f,nashik
+1150,priya,25,female,thane
+1151,neha,-,male,mumbai
+1152,neha, ,m,mumbai
+1153,pratik,56,female,pune
+1154,akash,,male,pune
+1155,neha,,male,thane
+1156, ,-,,mumbai
+1157,neha,,male,nagpur
+1158,pratik,24,f,thane
+1159,akash,-,,mumbai
+1160,madhuri,,m,nagpur
+1161,madhuri,-,m,thane
+1162, ,-,female,nashik
+1163,priya, ,f,nashik
+1164,priya, ,f, 
+1165,priya,21,female,nashik
+1166,pratik,,f,mumbai
+1167,madhuri, ,,nagpur
+1168,rohan,,female,thane
+1169,rohan,36,female, 
+1170,madhuri,-,male,pune
+1171,sai,44,,nashik
+1172,neha, ,female,mumbai
+1173,priya,52,female,nashik
+1174,pratik,38,female, 
+1175,neha,-,f,thane
+1176, ,,f,mumbai
+1177,pratik, ,m, 
+1178,pratik,-,f,mumbai
+1179,neha,,male,pune
+1180, ,,m, 
+1181,neha,,,thane
+1182, ,-,male,mumbai
+1183,madhuri,-,m,mumbai
+1184,priya,-,m,thane
+1185, ,21,,thane
+1186,madhuri, ,,nagpur
+1187,rohan,46,m,pune
+1188,rohan,48,female,mumbai
+1189,sai,,m,thane
+1190,meera,-,male,pune
+1191,akash,44,,thane
+1192,madhuri,-,male,nagpur
+1193,akash, ,male,nagpur
+1194,madhuri,-,,mumbai
+1195,sai,36,m,nagpur
+1196,rohan, ,,pune
+1197,pratik,,m,thane
+1198,priya,-,male, 
+1199,pratik,,male,nashik
+1200, , ,female,thane
+1201,pratik,23,f,pune
+1202,pratik, ,f,nagpur
+1203,pratik, ,f, 
+1204,madhuri,-,male,pune
+1205, ,37,m,nashik
+1206,priya, ,,pune
+1207,sai, ,f, 
+1208,pratik,-,,thane
+1209,meera,19,f,nagpur
+1210,sai,37,,nashik
+1211,sai, ,,thane
+1212,sai,,male,nashik
+1213,priya,51,m,nashik
+1214,madhuri,,,pune
+1215,meera,59,,nagpur
+1216, ,38,,nashik
+1217,sai, ,m,nagpur
+1218,rohan, ,male,nagpur
+1219,sai, ,male,pune
+1220,pratik, ,,thane
+1221,priya, ,f,nashik
+1222,priya,,m,nashik
+1223,priya,-,m,pune
+1224,madhuri, ,,thane
+1225,rohan,-,,nagpur
+1226,madhuri, ,female,thane
+1227,pratik,21,,thane
+1228,neha,44,f,nashik
+1229,priya,,m,nashik
+1230, ,-,male,pune
+1231,madhuri, ,f,nagpur
+1232,madhuri,40,,pune
+1233,meera, ,f,pune
+1234,meera,-,,nashik
+1235,pratik,,,thane
+1236,meera,31,, 
+1237,sai,36,male,pune
+1238,pratik, ,m, 
+1239,neha, ,,thane
+1240,neha,45,male,nashik
+1241, , ,male,mumbai
+1242,meera,43,female,nashik
+1243,pratik,48,m,thane
+1244, ,-,, 
+1245,madhuri,-,female,nashik
+1246, , ,female,mumbai
+1247,neha,,female,nashik
+1248,neha, ,f,thane
+1249,akash, ,,nagpur
+1250,madhuri,-,f, 
+1251,akash, ,male, 
+1252,neha,55,female,nashik
+1253,akash,48,female,thane
+1254,meera,45,f, 
+1255, ,-,,pune
+1256,rohan,-,male,mumbai
+1257,rohan,,f,nagpur
+1258,neha,,,thane
+1259,akash,,f, 
+1260,madhuri, ,,nagpur
+1261,neha,-,male,nashik
+1262,madhuri,-,f,thane
+1263,priya,57,f,thane
+1264,neha,35,male,pune
+1265,akash, ,male, 
+1266,sai, ,f,pune
+1267,akash, ,,pune
+1268,pratik,-,m,nashik
+1269,pratik,21,male,nashik
+1270,priya,-,male, 
+1271,priya,-,male,pune
+1272,madhuri,,male, 
+1273,pratik,-,, 
+1274,rohan,-,female,mumbai
+1275,neha,,male, 
+1276,priya, ,f,nashik
+1277,pratik,20,m,pune
+1278,neha,-,f,thane
+1279, , ,m,thane
+1280,madhuri,-,f,nashik
+1281,neha,56,,nashik
+1282, ,-,female,nagpur
+1283, , ,f,nagpur
+1284,sai,48,male,nashik
+1285, ,,, 
+1286,sai,,,pune
+1287,akash,,male,thane
+1288,neha,-,,thane
+1289,akash, ,f,thane
+1290,priya,33,male, 
+1291,akash,-,female,thane
+1292,sai,,m,thane
+1293,priya,,female,nagpur
+1294,meera,19,m,nagpur
+1295,neha,48,f,mumbai
+1296,rohan, ,female,nashik
+1297,neha,37,,nagpur
+1298,neha,54,f,mumbai
+1299,priya,20,m,nagpur
+1300, ,32,,thane
+1301,sai,19,f,pune
+1302,akash,-,female,thane
+1303, ,50,f, 
+1304,akash,-,f, 
+1305,pratik,,male,pune
+1306,priya,,male,nashik
+1307, ,20,f, 
+1308,sai, ,m,mumbai
+1309,madhuri,45,m,thane
+1310,akash,44,m,nagpur
+1311,priya, ,male,mumbai
+1312,madhuri,39,, 
+1313,neha,51,f,nashik
+1314,meera,-,m,mumbai
+1315,rohan, ,m,nashik
+1316,priya,36,male,nashik
+1317, ,,f,thane
+1318,priya,19,f,mumbai
+1319,pratik, ,female,nashik
+1320,pratik,,f,mumbai
+1321,sai,-,m, 
+1322,sai,-,m, 
+1323,neha, ,female,mumbai
+1324,sai, ,male, 
+1325,akash,-,f,nagpur
+1326,meera,,m, 
+1327,meera, ,,thane
+1328,neha,,male,nagpur
+1329,pratik, ,female,nagpur
+1330,sai,,female,nagpur
+1331,meera, ,male,pune
+1332,madhuri, ,female,thane
+1333,pratik,-,male,mumbai
+1334, ,,m,thane
+1335,priya,21,female,nagpur
+1336,pratik, ,f,nashik
+1337,neha,39,,pune
+1338, ,-,,nashik
+1339,sai,-,,nashik
+1340,sai,-,,nashik
+1341,meera,-,, 
+1342, ,26,female,nagpur
+1343,pratik,-,m, 
+1344, ,-,f,nashik
+1345,akash,,m,mumbai
+1346,madhuri,-,,nashik
+1347,meera, ,male,nashik
+1348,priya,25,f,pune
+1349,sai, ,female,mumbai
+1350,madhuri,42,f,thane
+1351,priya,31,f, 
+1352, ,,f,mumbai
+1353,rohan,24,m,mumbai
+1354,madhuri,19,male,mumbai
+1355,pratik,,f,thane
+1356,meera,-,male,thane
+1357,priya,,m,nagpur
+1358, ,-,,mumbai
+1359,neha, ,f,nagpur
+1360,rohan,-,m, 
+1361,neha,22,f,pune
+1362,pratik,-,m,nagpur
+1363,pratik,-,male,nashik
+1364,sai,,male,nagpur
+1365,akash, ,m,thane
+1366,akash, ,male,nagpur
+1367,meera,-,male,thane
+1368, , ,m,mumbai
+1369,meera, ,f,pune
+1370,meera,36,,thane
+1371,rohan, ,m, 
+1372,sai,18,male,nashik
+1373,rohan,31,male,thane
+1374, ,55,female,pune
+1375,neha,,m,mumbai
+1376,sai, ,f,pune
+1377,akash, ,female,thane
+1378,neha,,female,nashik
+1379,madhuri,,f,mumbai
+1380,pratik,31,male,nashik
+1381,madhuri,,male,thane
+1382,priya,-,female,mumbai
+1383,madhuri, ,m,nagpur
+1384,akash,-,,thane
+1385,pratik,-,female,thane
+1386,neha,,f,pune
+1387,sai,,m,pune
+1388,priya,,,nagpur
+1389,meera, ,male, 
+1390, ,-,,nashik
+1391,sai,52,f,mumbai
+1392,rohan,60,female, 
+1393,neha,,m,nagpur
+1394,neha,-,m,thane
+1395,meera,,f,mumbai
+1396,pratik, ,,thane
+1397,meera,-,m,thane
+1398,rohan,-,m,nashik
+1399,sai, ,male,mumbai
+1400,rohan,,,mumbai
+1401, ,-,female,pune
+1402,neha, ,f,thane
+1403,meera, ,f,nashik
+1404,rohan,-,m,nagpur
+1405,pratik,23,,pune
+1406,pratik, ,female,pune
+1407,sai,38,m,nagpur
+1408, ,53,male,mumbai
+1409,pratik,-,,thane
+1410,rohan,54,m,thane
+1411,pratik,,,nashik
+1412,sai,-,male,pune
+1413,meera,-,,nashik
+1414,rohan,,m,mumbai
+1415, ,,f,pune
+1416,sai, ,f,pune
+1417,pratik,25,,thane
+1418,sai,-,female,mumbai
+1419,pratik,39,, 
+1420,pratik,,male,nashik
+1421, ,-,f,mumbai
+1422, , ,,nagpur
+1423,pratik, ,male, 
+1424,priya, ,,nagpur
+1425,sai,,f, 
+1426,sai,-,,mumbai
+1427,rohan, ,f,mumbai
+1428,pratik,,female,nagpur
+1429,rohan, ,f,nagpur
+1430,akash,-,f,thane
+1431,priya, ,female,mumbai
+1432,rohan,46,f, 
+1433,meera, ,m,pune
+1434,madhuri, ,f,nagpur
+1435,rohan,-,male,mumbai
+1436,rohan,33,f,nagpur
+1437,akash,,m,mumbai
+1438,priya,-,,thane
+1439,pratik,,,pune
+1440,priya,-,female,pune
+1441,akash,54,,thane
+1442,sai,-,female, 
+1443,priya, ,female,nagpur
+1444,akash,,,pune
+1445,neha,-,m,mumbai
+1446,meera,24,male,mumbai
+1447,neha,,, 
+1448,akash,38,female,nashik
+1449,neha,,male,mumbai
+1450,akash,,m,nashik
+1451,sai, ,female,pune
+1452,pratik,-,male,nashik
+1453,rohan,-,f,pune
+1454,akash,,male,nagpur
+1455,priya,-,m, 
+1456, ,-,f,thane
+1457,pratik, ,f,nagpur
+1458,pratik,,,thane
+1459,pratik,29,, 
+1460,akash,29,f,nagpur
+1461, , ,m,nashik
+1462,akash,54,female,thane
+1463,sai,-,m,pune
+1464,neha,,m,mumbai
+1465,madhuri, ,male,nashik
+1466,pratik,-,m,pune
+1467,akash,36,m,thane
+1468,pratik,-,f,thane
+1469,priya,,f,nagpur
+1470,sai,47,,nashik
+1471, ,32,male,mumbai
+1472,neha,47,male,nagpur
+1473,priya,,m,pune
+1474,rohan,,,nagpur
+1475,neha,,f,pune
+1476,rohan,-,female,mumbai
+1477,meera,51,male,thane
+1478,pratik, ,male, 
+1479,sai,36,,pune
+1480,neha,-,female,thane
+1481, , ,m, 
+1482,pratik,-,f,nashik
+1483,madhuri,19,m,mumbai
+1484,neha, ,female, 
+1485,sai,36,f,nashik
+1486,priya, ,,mumbai
+1487,sai,,f,pune
+1488,neha,28,female, 
+1489,akash, ,m,mumbai
+1490,rohan,52,m, 
+1491,sai,,female,nashik
+1492,rohan,-,, 
+1493,rohan, ,male,thane
+1494,pratik,24,,nagpur
+1495, , ,female,pune
+1496,akash,,male,nashik
+1497,akash, ,f,nagpur
+1498,meera,,f,pune
+1499,rohan,-,, 
+1500,meera, ,f, 
+1501,madhuri,,male,thane
+1502, ,,female,pune
+1503,pratik,50,female,nagpur
+1504,akash,43,m,thane
+1505,sai,-,,mumbai
+1506,madhuri,-,m,mumbai
+1507,meera,,,mumbai
+1508,akash,39,m, 
+1509,meera,37,male,nagpur
+1510,meera, ,f, 
+1511,pratik,,f,nashik
+1512,madhuri,-,f,mumbai
+1513,akash,,, 
+1514,pratik,28,m,nagpur
+1515,sai,23,f,pune
+1516,sai,-,f,nashik
+1517,meera,,,mumbai
+1518,akash,,male,mumbai
+1519,pratik,-,male, 
+1520,pratik,-,female, 
+1521,meera,,,pune
+1522,pratik,,f,thane
+1523,neha,26,female,pune
+1524,meera, ,m,pune
+1525,akash,24,m,nagpur
+1526,pratik,50,m, 
+1527,meera,-,female,pune
+1528,pratik,46,f,mumbai
+1529,meera, ,f,nagpur
+1530,madhuri, ,f,nagpur
+1531,neha,,male,nashik
+1532,madhuri,,female,thane
+1533,rohan, ,male, 
+1534,rohan,-,f, 
+1535, ,,f,nagpur
+1536,priya,55,male,pune
+1537,meera,-,f,mumbai
+1538,akash, ,male,thane
+1539,neha,-,female,nagpur
+1540,madhuri, ,,mumbai
+1541,meera, ,m,nagpur
+1542,madhuri,-,female, 
+1543,akash, ,female, 
+1544,meera,19,m,thane
+1545, ,41,f,nashik
+1546,sai, ,, 
+1547,meera,20,male, 
+1548,neha,-,female,pune
+1549,sai, ,f,mumbai
+1550,rohan,-,m,nashik
+1551,priya,35,male,nashik
+1552,meera, ,,mumbai
+1553,akash,29,,nagpur
+1554, , ,female,nagpur
+1555,pratik,,m,nagpur
+1556,rohan,41,male,thane
+1557,neha,,m,nashik
+1558,madhuri,-,f,nashik
+1559,rohan,,,thane
+1560,pratik, ,,pune
+1561,neha,,f,pune
+1562,priya,,f,thane
+1563,sai,-,female,pune
+1564,madhuri,,f,thane
+1565,madhuri,,,thane
+1566,sai,-,,nashik
+1567,madhuri, ,male, 
+1568,rohan,,,thane
+1569,rohan, ,female,nagpur
+1570,priya,29,male,pune
+1571,akash, ,m,nashik
+1572, ,-,female,mumbai
+1573,neha,,m, 
+1574,madhuri,-,m, 
+1575,priya, ,,nagpur
+1576, ,,male,nashik
+1577,akash,-,female,nashik
+1578,sai,,,thane
+1579,madhuri,,f, 
+1580,pratik,35,male,mumbai
+1581,sai,-,m,nashik
+1582,madhuri,-,, 
+1583,meera,,male,thane
+1584,sai,,male,nagpur
+1585,rohan, ,female,thane
+1586,akash,22,m, 
+1587,neha, ,m,thane
+1588,sai, ,male,nashik
+1589,neha,,male,mumbai
+1590,meera,,f,pune
+1591,akash, ,,mumbai
+1592,pratik,45,m, 
+1593,madhuri,56,f, 
+1594,madhuri, ,female,nashik
+1595,neha,23,male,nashik
+1596, , ,female,pune
+1597,sai,48,, 
+1598,priya,-,f,nagpur
+1599,priya,44,,mumbai
+1600,meera,-,female, 
+1601, , ,m, 
+1602,pratik, ,,pune
+1603,rohan,-,female,nagpur
+1604,madhuri,,female, 
+1605,meera,38,female,mumbai
+1606,meera,-,female,mumbai
+1607,priya, ,male,nashik
+1608,priya,42,male,mumbai
+1609,madhuri, ,,pune
+1610,priya,,,nashik
+1611,meera,56,,nagpur
+1612,meera, ,,nashik
+1613,priya,,f,thane
+1614,sai,-,female,mumbai
+1615,sai, ,male,nashik
+1616,priya,,,nagpur
+1617, ,-,female,pune
+1618,akash,54,male,pune
+1619,akash,51,,nashik
+1620,madhuri,,m,mumbai
+1621,rohan, ,female,thane
+1622,meera,26,male, 
+1623,pratik, ,m,nashik
+1624,madhuri,48,m,thane
+1625,akash,-,m,nashik
+1626, ,,,mumbai
+1627,priya, ,female,thane
+1628,priya,,male, 
+1629,neha, ,female,thane
+1630,madhuri,,, 
+1631,rohan,-,male,thane
+1632,akash,56,female,nagpur
+1633,sai,-,m,pune
+1634,priya,-,m,nashik
+1635,akash, ,f,nagpur
+1636,neha, ,m,nashik
+1637,madhuri,,male, 
+1638,rohan,,male, 
+1639, ,-,m,pune
+1640, ,-,, 
+1641,akash,,female,mumbai
+1642, ,-,female,thane
+1643,pratik,43,female,nagpur
+1644,meera,-,female,nagpur
+1645,madhuri,43,male,nagpur
+1646,neha,-,,pune
+1647,pratik, ,f,mumbai
+1648, ,-,female,mumbai
+1649,akash,-,f,thane
+1650,priya,41,male,pune
+1651,meera,,male,mumbai
+1652,priya,-,,nagpur
+1653,rohan, ,female,nagpur
+1654,meera, ,m,thane
+1655,pratik, ,male,nagpur
+1656,priya,-,female,nashik
+1657,sai,-,,thane
+1658,rohan,60,female,thane
+1659, ,19,female,pune
+1660,pratik,-,,nagpur
+1661,pratik,34,m,thane
+1662,akash,47,m,nashik
+1663,neha,,m,mumbai
+1664,meera,36,male,mumbai
+1665,madhuri,-,f, 
+1666, , ,male, 
+1667,priya,47,female,thane
+1668,priya,,m,nashik
+1669,sai,41,male,pune
+1670,meera,,female,mumbai
+1671,sai, ,,thane
+1672,rohan, ,,nashik
+1673, ,56,f, 
+1674,meera,56,m,nashik
+1675,madhuri,19,f,mumbai
+1676,priya,-,m, 
+1677,rohan,-,f,nagpur
+1678,rohan,57,f,nagpur
+1679,madhuri,-,male,thane
+1680,madhuri,-,m, 
+1681,akash,,m,nagpur
+1682,rohan,38,male,pune
+1683,neha,,m,nagpur
+1684,meera,-,male,thane
+1685,rohan, ,,pune
+1686,pratik,-,m,nashik
+1687,rohan,,,pune
+1688,priya,-,female, 
+1689,rohan,-,female,nashik
+1690,rohan,,male,thane
+1691,akash,49,female,thane
+1692,pratik,37,f, 
+1693,rohan,44,male,thane
+1694,madhuri,,m,nagpur
+1695,neha,,f,pune
+1696,pratik,-,female,thane
+1697,sai, ,f,nagpur
+1698,meera, ,f,pune
+1699,priya,-,f,nagpur
+1700,madhuri, ,male, 
+1701, ,,male, 
+1702,pratik,-,male,nashik
+1703,neha,,male,nagpur
+1704, ,-,male,thane
+1705,priya,30,m, 
+1706,madhuri,-,f,nashik
+1707,neha,27,f, 
+1708,pratik, ,female,nashik
+1709,pratik,-,f,mumbai
+1710,akash,43,female,nagpur
+1711,madhuri,,male, 
+1712,pratik,,f,nagpur
+1713,pratik,,f, 
+1714,pratik,-,female,thane
+1715,neha,,m, 
+1716,neha,-,m,pune
+1717,madhuri, ,m,thane
+1718,rohan,,f,nagpur
+1719,madhuri,,m,nashik
+1720,priya, ,female,mumbai
+1721,neha,,male, 
+1722,pratik,-,f,nashik
+1723,madhuri, ,,thane
+1724,meera,-,f,pune
+1725,sai,23,,pune
+1726, , ,,nashik
+1727,priya,49,m,nagpur
+1728,sai,,f,nashik
+1729,rohan,33,m,nashik
+1730,akash,-,,nagpur
+1731,meera,-,f,pune
+1732,pratik,-,f,nashik
+1733,rohan, ,m,thane
+1734,madhuri,,male,thane
+1735,pratik,51,female, 
+1736,priya,,female,pune
+1737,priya,-,female, 
+1738,priya, ,male,nagpur
+1739, , ,male,mumbai
+1740,pratik,50,female,pune
+1741, , ,m,nagpur
+1742,sai, ,male,mumbai
+1743,pratik, ,female,pune
+1744,meera,-,male, 
+1745,sai, ,female,nashik
+1746,rohan, ,female, 
+1747,meera, ,f,nagpur
+1748,sai,,f,nashik
+1749,madhuri,-,male,thane
+1750,priya,-,f,nagpur
+1751,sai,,male,pune
+1752,priya,,male, 
+1753,rohan, ,,nagpur
+1754,sai, ,f,pune
+1755,rohan,,,pune
+1756,priya,32,,nagpur
+1757,akash,59,,pune
+1758,madhuri, ,m,thane
+1759,neha, ,m,thane
+1760,neha, ,, 
+1761,rohan,41,male,nagpur
+1762, ,25,male,thane
+1763,priya,,f,nashik
+1764,priya,-,m,nashik
+1765,meera,40,,nashik
+1766, , ,f,nagpur
+1767,meera, ,,pune
+1768,pratik,,m,nagpur
+1769,sai,,,mumbai
+1770,meera,-,m,mumbai
+1771,madhuri,51,male,mumbai
+1772,madhuri, ,male,nashik
+1773,akash,-,,pune
+1774,neha, ,,mumbai
+1775,akash,51,male,nagpur
+1776,pratik,,m,thane
+1777,rohan,,f,nagpur
+1778, ,40,m,nagpur
+1779, ,,f,nagpur
+1780,rohan,30,,nagpur
+1781,madhuri,,,nagpur
+1782,meera,-,male,pune
+1783,rohan,-,male, 
+1784,meera,56,female,pune
+1785,akash, ,male,mumbai
+1786,pratik,-,,mumbai
+1787, , ,female,mumbai
+1788,sai,,f,nagpur
+1789,priya,25,male,nashik
+1790,akash,-,female,nagpur
+1791,sai,-,m,nashik
+1792,meera, ,m,nagpur
+1793,madhuri,,male,pune
+1794,priya,,m,mumbai
+1795,priya,,f,nagpur
+1796,neha, ,female,mumbai
+1797, ,48,,nagpur
+1798,meera,,, 
+1799,priya, ,female,nashik
+1800,priya, ,male,pune
+1801,sai,-,male,nashik
+1802,priya, ,f,nagpur
+1803,neha,51,female,mumbai
+1804,rohan,,male,thane
+1805,rohan,29,,thane
+1806,akash,31,,nashik
+1807,priya,41,,thane
+1808,priya,27,female,nashik
+1809,madhuri,18,male,thane
+1810,pratik, ,male,nagpur
+1811,pratik, ,male,nagpur
+1812,priya,,f,nashik
+1813,sai,,m,mumbai
+1814,madhuri,,female,mumbai
+1815, ,-,,nashik
+1816, ,,female,pune
+1817,pratik,-,m,thane
+1818,sai,27,m,mumbai
+1819,rohan,,male,pune
+1820, ,,male,nashik
+1821,akash,27,male,nashik
+1822,madhuri, ,male,nashik
+1823,madhuri,53,m,thane
+1824, , ,female,mumbai
+1825,madhuri,,f, 
+1826,rohan,-,male,nagpur
+1827,meera,-,,nagpur
+1828,neha,,m,nashik
+1829,madhuri, ,f, 
+1830,rohan,49,,pune
+1831,sai,31,female,nagpur
+1832,madhuri,44,male,pune
+1833,madhuri,45,,thane
+1834,pratik,52,f, 
+1835,neha,51,f,nagpur
+1836, ,46,female,mumbai
+1837,madhuri,,f,pune
+1838, ,,,mumbai
+1839,madhuri,,male,mumbai
+1840,priya, ,, 
+1841,pratik,-,male,nashik
+1842,priya,53,male,pune
+1843,meera,26,f,nashik
+1844,akash, ,f,pune
+1845,rohan,-,m,thane
+1846,rohan,,female,thane
+1847, ,-,female, 
+1848, , ,male,mumbai
+1849,neha, ,,mumbai
+1850,akash,22,, 
+1851,priya, ,m,thane
+1852,rohan,,,thane
+1853,neha,,f,nashik
+1854,pratik,,female,nashik
+1855,pratik,56,male, 
+1856,madhuri,58,female,mumbai
+1857,neha, ,m,thane
+1858,sai,,m,pune
+1859,meera,,f,nashik
+1860,madhuri, ,,thane
+1861,rohan,37,f,pune
+1862,priya,-,f,nashik
+1863,rohan,30,m,nagpur
+1864,akash, ,f,thane
+1865,rohan,,,nagpur
+1866,akash, ,m, 
+1867,madhuri,,m,mumbai
+1868,neha,-,male,nashik
+1869,neha,,f,nagpur
+1870,sai, ,female,thane
+1871,neha,-,,mumbai
+1872,rohan,,male,pune
+1873, ,-,,mumbai
+1874,akash,,male,nashik
+1875,akash,-,f,pune
+1876, ,,male,nashik
+1877,madhuri,,m,thane
+1878,pratik,50,male,nagpur
+1879,meera,-,m,pune
+1880,sai,,m,pune
+1881,rohan, ,f, 
+1882, ,41,,thane
+1883,akash,,male,pune
+1884,neha,,m,nashik
+1885,meera,-,f,nashik
+1886,meera,,female,nagpur
+1887,priya, ,,pune
+1888,meera,-,female,nashik
+1889, ,59,female,thane
+1890,pratik,-,,nagpur
+1891, ,-,female, 
+1892,sai,,f,nashik
+1893,neha,-,f,nagpur
+1894,rohan,,male,nagpur
+1895,rohan,46,, 
+1896,pratik, ,,nashik
+1897, ,,f,pune
+1898,akash,-,m,nashik
+1899, ,-,,nagpur
+1900,meera,,m,thane
+1901,neha,,m,nashik
+1902,rohan,-,,pune
+1903,rohan,,female,pune
+1904, ,47,m,mumbai
+1905,neha,,female,mumbai
+1906,madhuri, ,female,mumbai
+1907, , ,male,mumbai
+1908,pratik,,male, 
+1909, ,-,,pune
+1910,sai,,female, 
+1911,madhuri,,male,pune
+1912,madhuri,40,f,nashik
+1913, ,,f,thane
+1914,meera, ,male,nagpur
+1915,madhuri,-,female,nagpur
+1916,neha, ,female,nashik
+1917,neha,55,,nagpur
+1918,neha,-,m,nagpur
+1919,rohan, ,,nashik
+1920,rohan,60,female,mumbai
+1921, ,-,m,nashik
+1922,sai,41,male,mumbai
+1923,pratik,,female,nagpur
+1924,madhuri, ,male,pune
+1925,meera,-,m,thane
+1926,meera, ,female,nashik
+1927,rohan, ,male,mumbai
+1928,neha,35,f,thane
+1929,meera,37,female,pune
+1930,priya,,m,thane
+1931,neha,55,m,thane
+1932,priya,38,male,nashik
+1933,neha,59,,nashik
+1934,akash, ,m,mumbai
+1935,akash,-,female,nagpur
+1936,madhuri,,f,nagpur
+1937,neha, ,female,mumbai
+1938,priya,,female, 
+1939,priya,22,female,thane
+1940, ,,f,thane
+1941,neha, ,f,nashik
+1942,akash,53,female,mumbai
+1943, , ,m,thane
+1944,meera, ,f,nagpur
+1945,sai, ,male,thane
+1946,priya,-,, 
+1947,priya,,f, 
+1948,akash,-,female, 
+1949,rohan, ,f,mumbai
+1950,madhuri,-,m,thane
+1951,akash,,,thane
+1952,akash,49,male,mumbai
+1953,sai,-,m,nashik
+1954,rohan,33,male,mumbai
+1955,pratik,,female,thane
+1956,sai, ,male,nagpur
+1957,priya,40,female, 
+1958,rohan,,m,nashik
+1959,rohan,44,,mumbai
+1960,pratik,25,m,thane
+1961,akash,26,f,mumbai
+1962,rohan,-,male,pune
+1963,priya,,male,mumbai
+1964,pratik, ,male,nashik
+1965,pratik,42,m,thane
+1966,pratik,49,female,pune
+1967,sai,,male,nagpur
+1968,madhuri,39,male,pune
+1969,madhuri, ,m,pune
+1970,rohan,60,,nagpur
+1971,meera,46,,nagpur
+1972,sai, ,male,nagpur
+1973,sai,-,,mumbai
+1974, ,,male,nashik
+1975,madhuri,-,,thane
+1976,rohan,52,, 
+1977,neha, ,male,mumbai
+1978, ,-,m,nagpur
+1979,sai, ,male, 
+1980,sai, ,,nashik
+1981,madhuri,-,male,mumbai
+1982,priya,,male,mumbai
+1983,neha,,,thane
+1984,pratik,,male, 
+1985,sai,23,male, 
+1986,priya,,female,nagpur
+1987,meera,,m,thane
+1988,meera, ,female,pune
+1989,akash,,male,nashik
+1990,pratik,,m,pune
+1991,rohan,34,,nashik
+1992,meera,52,f,mumbai
+1993,rohan,-,male,thane
+1994,sai,-,,pune
+1995,madhuri, ,female,nashik
+1996,neha,,,pune
+1997,neha,-,female,nagpur
+1998,rohan,22,m, 
+1999,akash,,male,mumbai
+2000,sai,-,m,mumbai

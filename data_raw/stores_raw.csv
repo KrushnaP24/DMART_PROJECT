@@ -1,0 +1,31 @@
+store_id,store_name,city,state
+10,Dmart Thane,nagpur,Maharastra
+11,Dmart Nagpur,pune,
+12,Dmart Nagpur,nashik,maharashtra
+13,Dmart Nagpur,thane,
+14,Dmart Thane,thane,maharashtra
+15,,nashik,MAHARASHTRA
+16,, ,maharashtra
+17,D - Mart Nashik,pune,MAHARASHTRA
+18,D-Mart Mumbai,thane,Maharastra
+19,D - Mart Nashik,mumbai,
+20,D - Mart Nashik, ,maharashtra
+21,Dmart Thane,pune,MAHARASHTRA
+22,Dmart Nagpur,nagpur,maharashtra
+23,Dmart Nagpur,pune,
+24,D - Mart Nashik,mumbai,Maharastra
+25,Dmart Nagpur, ,
+26,Dmart Pune,nagpur,maharashtra
+27,D-Mart Mumbai,nashik,Maharastra
+28,D-Mart Mumbai,nashik,
+29,Dmart Pune, ,
+30,Dmart Thane,nashik,
+31,D - Mart Nashik,thane,maharashtra
+32,D-Mart Mumbai,mumbai,maharashtra
+33,D - Mart Nashik,nashik,Maharastra
+34,D-Mart Mumbai,nagpur,Maharastra
+35,Dmart Nagpur,mumbai,maharashtra
+36,Dmart Thane,mumbai,MAHARASHTRA
+37,Dmart Pune,pune,maharashtra
+38,Dmart Thane,nashik,maharashtra
+39,Dmart Thane,thane,Maharastra

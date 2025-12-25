@@ -1,0 +1,2001 @@
+product_id,name,category,unit_price
+1000,Bourbon Biscuit,Grocery,221
+1001,Sunlight Soap,Bakery,372
+1002,Dettol Soap,Personal Care,346
+1003,Dettol Soap,Personal Care,347
+1004,Colgate,Dairy,169
+1005,Tata Salt,Grocery,0
+1006,Dettol Soap,Grocery,339
+1007,Dettol Soap,Personal Care,37
+1008,Fortune Oil,Dairy,320
+1009,Fortune Oil,Personal Care,230
+1010,Bourbon Biscuit,Grocery,345
+1011,Colgate,Personal Care,101
+1012,Amul Milk,Household,0
+1013,Sunlight Soap,Grocery,303
+1014,Aashirvaad Atta,Grocery,387
+1015,Amul Milk,Personal Care,371
+1016,Aashirvaad Atta,Grocery,67
+1017,Good Day Biscuit,Grocery,276
+1018,Bourbon Biscuit,Dairy,380
+1019,Aashirvaad Atta,Bakery,48
+1020,Amul Milk,Household,276
+1021,Colgate,Personal Care,176
+1022,Bourbon Biscuit,Household,248
+1023,Colgate,Personal Care,85
+1024,Colgate,Bakery,29
+1025,Tata Salt,Personal Care,309
+1026,Bourbon Biscuit,Household,381
+1027,Tata Salt,Grocery,323
+1028,Bourbon Biscuit,Grocery,12
+1029,Fortune Oil,Bakery,0
+1030,Sunlight Soap,Grocery,373
+1031,Sunlight Soap,Dairy,280
+1032,Colgate,Personal Care,396
+1033,Sunlight Soap,Personal Care,20
+1034,Amul Milk,Personal Care,243
+1035,Bourbon Biscuit,Household,127
+1036,Colgate,Dairy,276
+1037,Aashirvaad Atta,Personal Care,16
+1038,Sunlight Soap,Household,344
+1039,Amul Milk,Dairy,81
+1040,Aashirvaad Atta,Dairy,43
+1041,Fortune Oil,Grocery,278
+1042,Sunlight Soap,Household,62
+1043,Dettol Soap,Grocery,194
+1044,Fortune Oil,Dairy,30
+1045,Amul Milk,Household,73
+1046,Dettol Soap,Personal Care,190
+1047,Tata Salt,Household,234
+1048,Amul Milk,Dairy,340
+1049,Sunlight Soap,Household,200
+1050,Good Day Biscuit,Household,0
+1051,Good Day Biscuit,Personal Care,52
+1052,Amul Milk,Personal Care,130
+1053,Good Day Biscuit,Dairy,235
+1054,Aashirvaad Atta,Personal Care,199
+1055,Aashirvaad Atta,Personal Care,53
+1056,Bourbon Biscuit,Grocery,395
+1057,Fortune Oil,Personal Care,215
+1058,Aashirvaad Atta,Dairy,59
+1059,Fortune Oil,Household,346
+1060,Good Day Biscuit,Dairy,384
+1061,Colgate,Bakery,325
+1062,Amul Milk,unknown,392
+1063,Fortune Oil,Grocery,337
+1064,Colgate,Dairy,0
+1065,Tata Salt,Household,298
+1066,Bourbon Biscuit,Personal Care,229
+1067,Fortune Oil,Household,352
+1068,Dettol Soap,Personal Care,267
+1069,Colgate,Bakery,106
+1070,Amul Milk,Dairy,385
+1071,Fortune Oil,Personal Care,278
+1072,Fortune Oil,Bakery,37
+1073,Fortune Oil,Bakery,319
+1074,Fortune Oil,Bakery,37
+1075,Tata Salt,Bakery,226
+1076,Sunlight Soap,Household,0
+1077,Dettol Soap,Grocery,376
+1078,Fortune Oil,Personal Care,0
+1079,Fortune Oil,Bakery,335
+1080,Sunlight Soap,Personal Care,239
+1081,Dettol Soap,Dairy,309
+1082,Tata Salt,Dairy,321
+1083,Aashirvaad Atta,Household,85
+1084,Bourbon Biscuit,Personal Care,328
+1085,Sunlight Soap,unknown,36
+1086,Bourbon Biscuit,Grocery,180
+1087,Colgate,Dairy,108
+1088,Amul Milk,Bakery,198
+1089,Dettol Soap,Dairy,326
+1090,Fortune Oil,unknown,267
+1091,Undefine,Personal Care,82
+1092,Dettol Soap,Bakery,199
+1093,Dettol Soap,Household,40
+1094,Colgate,Household,293
+1095,Amul Milk,Bakery,366
+1096,Amul Milk,Dairy,251
+1097,Good Day Biscuit,Bakery,278
+1098,Fortune Oil,Personal Care,191
+1099,Aashirvaad Atta,Household,372
+1100,Colgate,Grocery,376
+1101,Aashirvaad Atta,Dairy,313
+1102,Bourbon Biscuit,Personal Care,36
+1103,Amul Milk,unknown,189
+1104,Dettol Soap,Grocery,330
+1105,Undefine,Bakery,0
+1106,Good Day Biscuit,Dairy,335
+1107,Fortune Oil,Household,0
+1108,Sunlight Soap,Personal Care,156
+1109,Sunlight Soap,Personal Care,75
+1110,Dettol Soap,Dairy,0
+1111,Fortune Oil,Dairy,50
+1112,Dettol Soap,Bakery,157
+1113,Sunlight Soap,Household,267
+1114,Undefine,Dairy,120
+1115,Good Day Biscuit,Household,157
+1116,Undefine,Bakery,208
+1117,Colgate,Grocery,180
+1118,Amul Milk,Dairy,37
+1119,Sunlight Soap,Bakery,127
+1120,Aashirvaad Atta,Household,187
+1121,Tata Salt,Bakery,387
+1122,Dettol Soap,Personal Care,118
+1123,Dettol Soap,Bakery,315
+1124,Dettol Soap,Dairy,170
+1125,Fortune Oil,Grocery,258
+1126,Good Day Biscuit,unknown,357
+1127,Bourbon Biscuit,Dairy,210
+1128,Bourbon Biscuit,Dairy,179
+1129,Good Day Biscuit,Grocery,0
+1130,Tata Salt,Grocery,359
+1131,Aashirvaad Atta,Grocery,0
+1132,Colgate,Grocery,109
+1133,Tata Salt,Grocery,153
+1134,Aashirvaad Atta,Grocery,176
+1135,Fortune Oil,Dairy,307
+1136,Amul Milk,Bakery,24
+1137,Colgate,Bakery,261
+1138,Dettol Soap,Bakery,0
+1139,Aashirvaad Atta,Household,0
+1140,Sunlight Soap,Household,52
+1141,Bourbon Biscuit,Dairy,13
+1142,Sunlight Soap,Personal Care,361
+1143,Bourbon Biscuit,unknown,374
+1144,Tata Salt,Dairy,367
+1145,Dettol Soap,Dairy,71
+1146,Tata Salt,Bakery,375
+1147,Colgate,Personal Care,370
+1148,Aashirvaad Atta,Bakery,278
+1149,Sunlight Soap,Personal Care,23
+1150,Colgate,Personal Care,218
+1151,Aashirvaad Atta,Grocery,152
+1152,Undefine,Household,83
+1153,Good Day Biscuit,Personal Care,390
+1154,Aashirvaad Atta,Household,255
+1155,Amul Milk,Household,266
+1156,Fortune Oil,Personal Care,167
+1157,Sunlight Soap,Household,231
+1158,Bourbon Biscuit,Bakery,55
+1159,Fortune Oil,Bakery,0
+1160,Sunlight Soap,Bakery,220
+1161,Bourbon Biscuit,Grocery,165
+1162,Bourbon Biscuit,Dairy,245
+1163,Sunlight Soap,Bakery,75
+1164,Amul Milk,Household,33
+1165,Colgate,Dairy,290
+1166,Undefine,Dairy,333
+1167,Undefine,Dairy,123
+1168,Fortune Oil,Household,341
+1169,Undefine,unknown,272
+1170,Good Day Biscuit,Bakery,312
+1171,Dettol Soap,Household,87
+1172,Dettol Soap,Household,0
+1173,Aashirvaad Atta,Bakery,0
+1174,Sunlight Soap,unknown,213
+1175,Colgate,Bakery,366
+1176,Aashirvaad Atta,Dairy,147
+1177,Fortune Oil,Grocery,37
+1178,Amul Milk,Household,111
+1179,Fortune Oil,Bakery,350
+1180,Tata Salt,Household,302
+1181,Bourbon Biscuit,Personal Care,106
+1182,Colgate,Household,152
+1183,Good Day Biscuit,Grocery,48
+1184,Sunlight Soap,Dairy,361
+1185,Colgate,Household,338
+1186,Amul Milk,Dairy,76
+1187,Sunlight Soap,Bakery,283
+1188,Amul Milk,Personal Care,298
+1189,Fortune Oil,Personal Care,33
+1190,Sunlight Soap,Dairy,252
+1191,Aashirvaad Atta,Bakery,356
+1192,Fortune Oil,Household,124
+1193,Sunlight Soap,Household,80
+1194,Colgate,unknown,281
+1195,Bourbon Biscuit,Household,0
+1196,Fortune Oil,Dairy,284
+1197,Good Day Biscuit,Dairy,398
+1198,Amul Milk,Personal Care,350
+1199,Bourbon Biscuit,Grocery,295
+1200,Undefine,Personal Care,303
+1201,Good Day Biscuit,Bakery,129
+1202,Tata Salt,Grocery,109
+1203,Tata Salt,Dairy,0
+1204,Colgate,Household,163
+1205,Amul Milk,Bakery,320
+1206,Sunlight Soap,Household,52
+1207,Colgate,Dairy,75
+1208,Sunlight Soap,Personal Care,369
+1209,Bourbon Biscuit,Grocery,83
+1210,Bourbon Biscuit,Grocery,135
+1211,Aashirvaad Atta,Household,124
+1212,Colgate,Dairy,312
+1213,Sunlight Soap,Grocery,218
+1214,Undefine,unknown,122
+1215,Tata Salt,Personal Care,101
+1216,Tata Salt,Bakery,315
+1217,Aashirvaad Atta,Personal Care,373
+1218,Colgate,Grocery,37
+1219,Amul Milk,Household,26
+1220,Colgate,Household,161
+1221,Tata Salt,Grocery,145
+1222,Aashirvaad Atta,Bakery,116
+1223,Fortune Oil,Dairy,397
+1224,Tata Salt,Personal Care,195
+1225,Fortune Oil,Household,23
+1226,Amul Milk,Personal Care,0
+1227,Sunlight Soap,Grocery,0
+1228,Aashirvaad Atta,Dairy,363
+1229,Colgate,Household,204
+1230,Undefine,unknown,357
+1231,Fortune Oil,Grocery,233
+1232,Good Day Biscuit,Grocery,242
+1233,Fortune Oil,Bakery,153
+1234,Tata Salt,Bakery,89
+1235,Good Day Biscuit,Dairy,0
+1236,Bourbon Biscuit,Dairy,201
+1237,Bourbon Biscuit,Grocery,128
+1238,Undefine,Grocery,23
+1239,Colgate,Bakery,241
+1240,Good Day Biscuit,Household,345
+1241,Fortune Oil,Dairy,15
+1242,Colgate,Grocery,341
+1243,Undefine,Personal Care,324
+1244,Aashirvaad Atta,Grocery,247
+1245,Dettol Soap,Personal Care,0
+1246,Sunlight Soap,Grocery,120
+1247,Undefine,Bakery,280
+1248,Bourbon Biscuit,Dairy,112
+1249,Dettol Soap,Household,279
+1250,Amul Milk,unknown,59
+1251,Bourbon Biscuit,Dairy,358
+1252,Bourbon Biscuit,unknown,286
+1253,Sunlight Soap,unknown,51
+1254,Sunlight Soap,Personal Care,257
+1255,Good Day Biscuit,Grocery,42
+1256,Dettol Soap,unknown,392
+1257,Fortune Oil,unknown,172
+1258,Fortune Oil,Grocery,135
+1259,Amul Milk,Bakery,127
+1260,Tata Salt,Dairy,73
+1261,Amul Milk,Household,149
+1262,Amul Milk,Grocery,16
+1263,Undefine,Bakery,347
+1264,Tata Salt,Dairy,146
+1265,Undefine,Household,264
+1266,Colgate,Household,81
+1267,Dettol Soap,unknown,46
+1268,Undefine,Personal Care,237
+1269,Colgate,unknown,205
+1270,Tata Salt,Household,221
+1271,Colgate,Dairy,94
+1272,Aashirvaad Atta,Bakery,51
+1273,Fortune Oil,Grocery,354
+1274,Good Day Biscuit,Personal Care,172
+1275,Bourbon Biscuit,Personal Care,232
+1276,Sunlight Soap,unknown,275
+1277,Colgate,unknown,151
+1278,Tata Salt,Grocery,345
+1279,Undefine,Household,206
+1280,Tata Salt,Grocery,210
+1281,Good Day Biscuit,unknown,13
+1282,Good Day Biscuit,Bakery,256
+1283,Bourbon Biscuit,Household,167
+1284,Bourbon Biscuit,Bakery,57
+1285,Colgate,Grocery,234
+1286,Sunlight Soap,Household,310
+1287,Fortune Oil,Household,229
+1288,Tata Salt,Personal Care,225
+1289,Bourbon Biscuit,Household,330
+1290,Aashirvaad Atta,Bakery,393
+1291,Dettol Soap,Household,387
+1292,Aashirvaad Atta,Household,74
+1293,Fortune Oil,Grocery,342
+1294,Colgate,Dairy,386
+1295,Tata Salt,Household,0
+1296,Undefine,Household,93
+1297,Sunlight Soap,unknown,222
+1298,Colgate,Grocery,0
+1299,Bourbon Biscuit,Household,76
+1300,Fortune Oil,Grocery,83
+1301,Aashirvaad Atta,Personal Care,161
+1302,Bourbon Biscuit,Personal Care,376
+1303,Fortune Oil,Household,133
+1304,Tata Salt,Personal Care,376
+1305,Good Day Biscuit,Dairy,321
+1306,Fortune Oil,Dairy,0
+1307,Fortune Oil,Household,153
+1308,Dettol Soap,Personal Care,239
+1309,Aashirvaad Atta,Personal Care,320
+1310,Amul Milk,Personal Care,49
+1311,Sunlight Soap,Household,71
+1312,Sunlight Soap,Grocery,170
+1313,Dettol Soap,Dairy,44
+1314,Aashirvaad Atta,Dairy,309
+1315,Aashirvaad Atta,Household,372
+1316,Good Day Biscuit,Bakery,267
+1317,Colgate,Bakery,289
+1318,Bourbon Biscuit,unknown,64
+1319,Fortune Oil,Personal Care,123
+1320,Amul Milk,Bakery,369
+1321,Aashirvaad Atta,Grocery,346
+1322,Fortune Oil,Household,107
+1323,Dettol Soap,Household,122
+1324,Good Day Biscuit,Bakery,241
+1325,Dettol Soap,Dairy,180
+1326,Sunlight Soap,Bakery,92
+1327,Colgate,Dairy,144
+1328,Dettol Soap,Grocery,110
+1329,Fortune Oil,Bakery,252
+1330,Good Day Biscuit,Dairy,369
+1331,Dettol Soap,Personal Care,287
+1332,Dettol Soap,Household,81
+1333,Good Day Biscuit,Bakery,0
+1334,Tata Salt,Grocery,11
+1335,Fortune Oil,Personal Care,318
+1336,Amul Milk,Grocery,0
+1337,Good Day Biscuit,Bakery,293
+1338,Good Day Biscuit,Grocery,0
+1339,Good Day Biscuit,Grocery,85
+1340,Tata Salt,Personal Care,107
+1341,Undefine,Personal Care,38
+1342,Tata Salt,unknown,168
+1343,Good Day Biscuit,Bakery,0
+1344,Amul Milk,unknown,182
+1345,Bourbon Biscuit,Personal Care,66
+1346,Aashirvaad Atta,Bakery,308
+1347,Bourbon Biscuit,Household,51
+1348,Colgate,Household,14
+1349,Tata Salt,Grocery,36
+1350,Fortune Oil,Personal Care,48
+1351,Colgate,Dairy,105
+1352,Bourbon Biscuit,Personal Care,267
+1353,Bourbon Biscuit,Bakery,211
+1354,Fortune Oil,unknown,41
+1355,Good Day Biscuit,Grocery,32
+1356,Colgate,Personal Care,369
+1357,Bourbon Biscuit,Grocery,397
+1358,Undefine,Household,88
+1359,Bourbon Biscuit,Personal Care,396
+1360,Tata Salt,Bakery,330
+1361,Sunlight Soap,Grocery,327
+1362,Tata Salt,Personal Care,36
+1363,Tata Salt,Grocery,319
+1364,Amul Milk,Grocery,92
+1365,Good Day Biscuit,Dairy,318
+1366,Sunlight Soap,unknown,295
+1367,Good Day Biscuit,Household,395
+1368,Tata Salt,Household,230
+1369,Bourbon Biscuit,Grocery,113
+1370,Good Day Biscuit,Personal Care,0
+1371,Tata Salt,Dairy,242
+1372,Colgate,Household,389
+1373,Sunlight Soap,Dairy,83
+1374,Fortune Oil,Dairy,319
+1375,Amul Milk,Bakery,334
+1376,Colgate,Grocery,191
+1377,Tata Salt,Bakery,105
+1378,Dettol Soap,Personal Care,0
+1379,Sunlight Soap,unknown,298
+1380,Amul Milk,Personal Care,0
+1381,Tata Salt,Grocery,204
+1382,Tata Salt,Bakery,216
+1383,Aashirvaad Atta,Grocery,366
+1384,Tata Salt,Personal Care,361
+1385,Dettol Soap,Bakery,111
+1386,Bourbon Biscuit,unknown,0
+1387,Tata Salt,Household,0
+1388,Dettol Soap,Household,46
+1389,Fortune Oil,unknown,0
+1390,Bourbon Biscuit,Grocery,95
+1391,Dettol Soap,Personal Care,299
+1392,Undefine,Grocery,362
+1393,Colgate,Grocery,329
+1394,Fortune Oil,Grocery,276
+1395,Sunlight Soap,Personal Care,0
+1396,Aashirvaad Atta,Grocery,0
+1397,Colgate,Household,137
+1398,Undefine,Grocery,136
+1399,Bourbon Biscuit,Bakery,151
+1400,Colgate,Personal Care,242
+1401,Colgate,Personal Care,42
+1402,Bourbon Biscuit,Bakery,293
+1403,Aashirvaad Atta,Household,0
+1404,Aashirvaad Atta,Grocery,361
+1405,Tata Salt,Grocery,113
+1406,Amul Milk,Household,274
+1407,Amul Milk,Household,177
+1408,Amul Milk,Personal Care,110
+1409,Bourbon Biscuit,Dairy,340
+1410,Fortune Oil,Bakery,139
+1411,Amul Milk,Dairy,266
+1412,Fortune Oil,Grocery,72
+1413,Amul Milk,Personal Care,226
+1414,Amul Milk,unknown,248
+1415,Fortune Oil,Household,247
+1416,Dettol Soap,Grocery,20
+1417,Aashirvaad Atta,Grocery,29
+1418,Tata Salt,Bakery,206
+1419,Fortune Oil,Household,243
+1420,Colgate,Dairy,119
+1421,Tata Salt,Dairy,260
+1422,Fortune Oil,Dairy,273
+1423,Tata Salt,Household,40
+1424,Sunlight Soap,Bakery,205
+1425,Dettol Soap,Household,364
+1426,Colgate,Grocery,306
+1427,Dettol Soap,Dairy,280
+1428,Bourbon Biscuit,Personal Care,63
+1429,Amul Milk,Personal Care,181
+1430,Amul Milk,Household,0
+1431,Aashirvaad Atta,Dairy,169
+1432,Amul Milk,Household,0
+1433,Dettol Soap,Dairy,300
+1434,Dettol Soap,Household,235
+1435,Good Day Biscuit,Grocery,362
+1436,Tata Salt,Dairy,180
+1437,Bourbon Biscuit,Personal Care,129
+1438,Tata Salt,Household,200
+1439,Good Day Biscuit,Bakery,16
+1440,Fortune Oil,Dairy,54
+1441,Fortune Oil,Grocery,345
+1442,Colgate,Bakery,113
+1443,Colgate,Personal Care,80
+1444,Amul Milk,Personal Care,308
+1445,Dettol Soap,Household,14
+1446,Good Day Biscuit,Household,213
+1447,Tata Salt,Dairy,331
+1448,Aashirvaad Atta,Grocery,95
+1449,Amul Milk,Bakery,14
+1450,Sunlight Soap,Dairy,263
+1451,Aashirvaad Atta,Dairy,23
+1452,Good Day Biscuit,Dairy,15
+1453,Colgate,Dairy,0
+1454,Good Day Biscuit,Grocery,277
+1455,Colgate,Household,264
+1456,Tata Salt,Dairy,18
+1457,Bourbon Biscuit,Dairy,188
+1458,Tata Salt,Personal Care,84
+1459,Good Day Biscuit,Household,118
+1460,Amul Milk,Grocery,255
+1461,Bourbon Biscuit,Bakery,129
+1462,Bourbon Biscuit,Grocery,380
+1463,Undefine,Bakery,136
+1464,Amul Milk,Personal Care,0
+1465,Bourbon Biscuit,Personal Care,0
+1466,Sunlight Soap,Grocery,286
+1467,Dettol Soap,Household,159
+1468,Dettol Soap,unknown,207
+1469,Tata Salt,Bakery,64
+1470,Aashirvaad Atta,Personal Care,371
+1471,Bourbon Biscuit,Bakery,120
+1472,Fortune Oil,Grocery,11
+1473,Tata Salt,Dairy,287
+1474,Sunlight Soap,Personal Care,138
+1475,Amul Milk,unknown,242
+1476,Sunlight Soap,Household,241
+1477,Bourbon Biscuit,Dairy,250
+1478,Aashirvaad Atta,Bakery,157
+1479,Sunlight Soap,Grocery,129
+1480,Tata Salt,Household,163
+1481,Good Day Biscuit,Dairy,123
+1482,Aashirvaad Atta,Dairy,0
+1483,Good Day Biscuit,Personal Care,247
+1484,Good Day Biscuit,Personal Care,0
+1485,Dettol Soap,Personal Care,143
+1486,Fortune Oil,Dairy,208
+1487,Aashirvaad Atta,Dairy,79
+1488,Bourbon Biscuit,unknown,24
+1489,Colgate,Bakery,269
+1490,Good Day Biscuit,unknown,339
+1491,Bourbon Biscuit,Bakery,152
+1492,Colgate,Personal Care,168
+1493,Good Day Biscuit,unknown,64
+1494,Dettol Soap,Personal Care,335
+1495,Amul Milk,Bakery,310
+1496,Aashirvaad Atta,Household,0
+1497,Bourbon Biscuit,Personal Care,368
+1498,Fortune Oil,unknown,204
+1499,Colgate,Grocery,329
+1500,Colgate,Grocery,38
+1501,Aashirvaad Atta,Bakery,316
+1502,Sunlight Soap,Bakery,296
+1503,Colgate,Personal Care,320
+1504,Aashirvaad Atta,Dairy,134
+1505,Aashirvaad Atta,Household,214
+1506,Sunlight Soap,Grocery,223
+1507,Amul Milk,Bakery,312
+1508,Colgate,Personal Care,374
+1509,Good Day Biscuit,Bakery,300
+1510,Dettol Soap,Bakery,32
+1511,Bourbon Biscuit,Personal Care,336
+1512,Amul Milk,Household,24
+1513,Amul Milk,Household,146
+1514,Fortune Oil,Household,0
+1515,Bourbon Biscuit,Grocery,267
+1516,Tata Salt,Bakery,169
+1517,Fortune Oil,Personal Care,274
+1518,Tata Salt,Personal Care,191
+1519,Amul Milk,Bakery,228
+1520,Dettol Soap,Grocery,106
+1521,Aashirvaad Atta,Personal Care,161
+1522,Aashirvaad Atta,Household,38
+1523,Tata Salt,Household,81
+1524,Amul Milk,Household,142
+1525,Amul Milk,Bakery,0
+1526,Aashirvaad Atta,Bakery,49
+1527,Bourbon Biscuit,unknown,0
+1528,Fortune Oil,Grocery,0
+1529,Tata Salt,Dairy,22
+1530,Fortune Oil,Bakery,175
+1531,Dettol Soap,Bakery,224
+1532,Amul Milk,Dairy,65
+1533,Good Day Biscuit,Grocery,21
+1534,Fortune Oil,Dairy,299
+1535,Sunlight Soap,Personal Care,97
+1536,Fortune Oil,Personal Care,352
+1537,Tata Salt,Household,0
+1538,Undefine,Bakery,200
+1539,Fortune Oil,Personal Care,117
+1540,Undefine,Dairy,186
+1541,Colgate,Personal Care,289
+1542,Bourbon Biscuit,Grocery,158
+1543,Bourbon Biscuit,Grocery,137
+1544,Good Day Biscuit,Bakery,232
+1545,Undefine,Dairy,335
+1546,Dettol Soap,Household,178
+1547,Amul Milk,Bakery,171
+1548,Dettol Soap,Personal Care,269
+1549,Colgate,Personal Care,135
+1550,Undefine,Bakery,266
+1551,Aashirvaad Atta,Household,206
+1552,Amul Milk,Dairy,82
+1553,Bourbon Biscuit,Household,104
+1554,Good Day Biscuit,Grocery,95
+1555,Tata Salt,Household,84
+1556,Tata Salt,Personal Care,316
+1557,Aashirvaad Atta,Personal Care,286
+1558,Fortune Oil,Grocery,145
+1559,Aashirvaad Atta,Dairy,0
+1560,Fortune Oil,Dairy,90
+1561,Good Day Biscuit,Dairy,245
+1562,Dettol Soap,Household,180
+1563,Dettol Soap,unknown,0
+1564,Amul Milk,Household,319
+1565,Tata Salt,Grocery,195
+1566,Tata Salt,Personal Care,180
+1567,Tata Salt,Dairy,320
+1568,Fortune Oil,Grocery,229
+1569,Bourbon Biscuit,unknown,371
+1570,Amul Milk,unknown,0
+1571,Aashirvaad Atta,Personal Care,149
+1572,Sunlight Soap,Grocery,0
+1573,Bourbon Biscuit,Household,72
+1574,Aashirvaad Atta,Personal Care,40
+1575,Fortune Oil,Bakery,12
+1576,Bourbon Biscuit,Grocery,86
+1577,Colgate,Dairy,14
+1578,Amul Milk,Grocery,372
+1579,Colgate,Personal Care,262
+1580,Bourbon Biscuit,Household,24
+1581,Good Day Biscuit,Dairy,246
+1582,Good Day Biscuit,Dairy,216
+1583,Fortune Oil,Personal Care,388
+1584,Bourbon Biscuit,Household,212
+1585,Undefine,Bakery,79
+1586,Amul Milk,Personal Care,0
+1587,Good Day Biscuit,Personal Care,273
+1588,Good Day Biscuit,Personal Care,42
+1589,Aashirvaad Atta,Dairy,0
+1590,Good Day Biscuit,Personal Care,127
+1591,Dettol Soap,Personal Care,98
+1592,Fortune Oil,Bakery,314
+1593,Dettol Soap,Household,313
+1594,Tata Salt,Bakery,314
+1595,Tata Salt,unknown,257
+1596,Aashirvaad Atta,Personal Care,0
+1597,Colgate,Dairy,75
+1598,Colgate,Dairy,200
+1599,Bourbon Biscuit,Personal Care,331
+1600,Good Day Biscuit,Household,314
+1601,Tata Salt,Bakery,161
+1602,Good Day Biscuit,unknown,92
+1603,Bourbon Biscuit,Personal Care,263
+1604,Aashirvaad Atta,Bakery,0
+1605,Dettol Soap,Dairy,92
+1606,Undefine,Bakery,226
+1607,Fortune Oil,Personal Care,380
+1608,Tata Salt,Personal Care,258
+1609,Tata Salt,Dairy,130
+1610,Colgate,Dairy,397
+1611,Bourbon Biscuit,Grocery,229
+1612,Colgate,Bakery,398
+1613,Amul Milk,Personal Care,105
+1614,Bourbon Biscuit,Dairy,42
+1615,Amul Milk,Bakery,216
+1616,Good Day Biscuit,Grocery,236
+1617,Tata Salt,Bakery,46
+1618,Good Day Biscuit,Grocery,249
+1619,Fortune Oil,Grocery,43
+1620,Dettol Soap,Bakery,125
+1621,Good Day Biscuit,Grocery,134
+1622,Sunlight Soap,Grocery,219
+1623,Aashirvaad Atta,Grocery,24
+1624,Fortune Oil,Bakery,339
+1625,Fortune Oil,Personal Care,350
+1626,Good Day Biscuit,Personal Care,267
+1627,Colgate,Dairy,57
+1628,Colgate,Grocery,323
+1629,Aashirvaad Atta,Personal Care,366
+1630,Good Day Biscuit,Bakery,99
+1631,Bourbon Biscuit,Household,134
+1632,Good Day Biscuit,Bakery,218
+1633,Amul Milk,Grocery,241
+1634,Fortune Oil,Bakery,148
+1635,Sunlight Soap,Dairy,98
+1636,Amul Milk,Grocery,353
+1637,Colgate,Grocery,215
+1638,Amul Milk,Bakery,0
+1639,Bourbon Biscuit,Dairy,214
+1640,Aashirvaad Atta,Dairy,299
+1641,Tata Salt,Household,0
+1642,Bourbon Biscuit,Personal Care,15
+1643,Sunlight Soap,Personal Care,239
+1644,Tata Salt,Dairy,272
+1645,Aashirvaad Atta,Personal Care,306
+1646,Good Day Biscuit,Grocery,0
+1647,Dettol Soap,Personal Care,91
+1648,Fortune Oil,Bakery,389
+1649,Dettol Soap,Household,365
+1650,Colgate,Personal Care,0
+1651,Colgate,Dairy,0
+1652,Dettol Soap,Bakery,224
+1653,Sunlight Soap,unknown,375
+1654,Dettol Soap,Dairy,110
+1655,Tata Salt,Household,184
+1656,Aashirvaad Atta,Personal Care,218
+1657,Colgate,Household,358
+1658,Good Day Biscuit,unknown,227
+1659,Dettol Soap,Personal Care,237
+1660,Amul Milk,Household,55
+1661,Aashirvaad Atta,Personal Care,73
+1662,Fortune Oil,Household,379
+1663,Sunlight Soap,Bakery,329
+1664,Amul Milk,Personal Care,144
+1665,Fortune Oil,Household,103
+1666,Colgate,Household,235
+1667,Dettol Soap,Bakery,123
+1668,Fortune Oil,Household,0
+1669,Colgate,Household,167
+1670,Colgate,Household,326
+1671,Fortune Oil,Bakery,327
+1672,Tata Salt,Household,224
+1673,Bourbon Biscuit,Dairy,191
+1674,Colgate,Grocery,81
+1675,Aashirvaad Atta,Dairy,0
+1676,Amul Milk,Grocery,72
+1677,Good Day Biscuit,Bakery,246
+1678,Good Day Biscuit,Household,314
+1679,Sunlight Soap,Dairy,309
+1680,Undefine,Household,25
+1681,Tata Salt,Household,27
+1682,Fortune Oil,Bakery,185
+1683,Good Day Biscuit,Grocery,363
+1684,Amul Milk,Household,140
+1685,Dettol Soap,Bakery,130
+1686,Colgate,Grocery,223
+1687,Colgate,Grocery,0
+1688,Bourbon Biscuit,Personal Care,121
+1689,Undefine,Dairy,326
+1690,Fortune Oil,Grocery,288
+1691,Fortune Oil,Bakery,258
+1692,Amul Milk,Household,156
+1693,Amul Milk,Dairy,283
+1694,Bourbon Biscuit,Household,173
+1695,Good Day Biscuit,Grocery,92
+1696,Amul Milk,Bakery,196
+1697,Fortune Oil,unknown,398
+1698,Tata Salt,Grocery,375
+1699,Dettol Soap,Dairy,363
+1700,Sunlight Soap,Dairy,37
+1701,Amul Milk,Dairy,318
+1702,Sunlight Soap,Personal Care,194
+1703,Amul Milk,Household,255
+1704,Undefine,Grocery,157
+1705,Bourbon Biscuit,Bakery,36
+1706,Aashirvaad Atta,Dairy,194
+1707,Aashirvaad Atta,Dairy,342
+1708,Colgate,Household,348
+1709,Aashirvaad Atta,Household,87
+1710,Fortune Oil,Grocery,181
+1711,Aashirvaad Atta,Grocery,218
+1712,Good Day Biscuit,Bakery,270
+1713,Tata Salt,Bakery,298
+1714,Aashirvaad Atta,Grocery,354
+1715,Fortune Oil,Household,329
+1716,Sunlight Soap,Dairy,203
+1717,Bourbon Biscuit,Dairy,134
+1718,Good Day Biscuit,Household,23
+1719,Bourbon Biscuit,Grocery,326
+1720,Colgate,Personal Care,359
+1721,Fortune Oil,Dairy,211
+1722,Undefine,Household,47
+1723,Sunlight Soap,Household,83
+1724,Fortune Oil,Bakery,286
+1725,Dettol Soap,Household,0
+1726,Sunlight Soap,Household,278
+1727,Good Day Biscuit,Personal Care,185
+1728,Fortune Oil,Household,342
+1729,Colgate,Personal Care,134
+1730,Aashirvaad Atta,Grocery,0
+1731,Fortune Oil,Bakery,0
+1732,Aashirvaad Atta,Bakery,0
+1733,Aashirvaad Atta,Bakery,263
+1734,Good Day Biscuit,Personal Care,277
+1735,Good Day Biscuit,Dairy,213
+1736,Tata Salt,Personal Care,42
+1737,Bourbon Biscuit,Personal Care,239
+1738,Dettol Soap,Dairy,63
+1739,Undefine,Household,373
+1740,Tata Salt,Dairy,173
+1741,Fortune Oil,Dairy,282
+1742,Amul Milk,Household,317
+1743,Tata Salt,Grocery,231
+1744,Bourbon Biscuit,unknown,164
+1745,Dettol Soap,Household,300
+1746,Bourbon Biscuit,Dairy,36
+1747,Good Day Biscuit,Bakery,220
+1748,Bourbon Biscuit,Personal Care,0
+1749,Dettol Soap,Personal Care,345
+1750,Sunlight Soap,Dairy,102
+1751,Fortune Oil,Household,197
+1752,Colgate,Household,384
+1753,Fortune Oil,Grocery,309
+1754,Dettol Soap,Household,40
+1755,Tata Salt,Personal Care,328
+1756,Amul Milk,Bakery,44
+1757,Undefine,Dairy,67
+1758,Colgate,Personal Care,97
+1759,Fortune Oil,Grocery,268
+1760,Dettol Soap,Grocery,279
+1761,Amul Milk,Personal Care,334
+1762,Tata Salt,Bakery,255
+1763,Amul Milk,Personal Care,290
+1764,Amul Milk,Dairy,25
+1765,Good Day Biscuit,Dairy,311
+1766,Tata Salt,Bakery,316
+1767,Aashirvaad Atta,Grocery,333
+1768,Dettol Soap,Personal Care,219
+1769,Amul Milk,Personal Care,122
+1770,Dettol Soap,Personal Care,300
+1771,Sunlight Soap,Personal Care,267
+1772,Dettol Soap,Dairy,125
+1773,Tata Salt,Household,0
+1774,Bourbon Biscuit,Household,35
+1775,Aashirvaad Atta,Dairy,103
+1776,Undefine,Dairy,334
+1777,Colgate,Personal Care,179
+1778,Amul Milk,Dairy,300
+1779,Good Day Biscuit,Grocery,300
+1780,Amul Milk,Bakery,105
+1781,Good Day Biscuit,unknown,364
+1782,Tata Salt,Personal Care,110
+1783,Fortune Oil,Household,275
+1784,Aashirvaad Atta,Household,11
+1785,Aashirvaad Atta,Dairy,135
+1786,Fortune Oil,Household,266
+1787,Tata Salt,Personal Care,0
+1788,Undefine,Personal Care,187
+1789,Aashirvaad Atta,Household,53
+1790,Dettol Soap,Personal Care,65
+1791,Fortune Oil,Bakery,250
+1792,Sunlight Soap,Dairy,20
+1793,Sunlight Soap,Bakery,256
+1794,Fortune Oil,Household,187
+1795,Undefine,Grocery,275
+1796,Good Day Biscuit,Bakery,355
+1797,Tata Salt,Household,358
+1798,Bourbon Biscuit,Grocery,292
+1799,Tata Salt,Personal Care,232
+1800,Dettol Soap,Grocery,334
+1801,Dettol Soap,unknown,332
+1802,Fortune Oil,unknown,0
+1803,Bourbon Biscuit,Dairy,314
+1804,Fortune Oil,Dairy,271
+1805,Aashirvaad Atta,Grocery,160
+1806,Amul Milk,Household,320
+1807,Tata Salt,Household,66
+1808,Tata Salt,Bakery,290
+1809,Fortune Oil,Household,146
+1810,Dettol Soap,Personal Care,266
+1811,Good Day Biscuit,Bakery,223
+1812,Dettol Soap,Grocery,139
+1813,Sunlight Soap,Household,165
+1814,Tata Salt,Bakery,379
+1815,Amul Milk,Bakery,322
+1816,Tata Salt,Dairy,79
+1817,Fortune Oil,Household,283
+1818,Good Day Biscuit,Grocery,343
+1819,Sunlight Soap,Personal Care,264
+1820,Tata Salt,Personal Care,293
+1821,Fortune Oil,Personal Care,270
+1822,Sunlight Soap,Grocery,0
+1823,Tata Salt,Grocery,394
+1824,Dettol Soap,Household,270
+1825,Bourbon Biscuit,Grocery,249
+1826,Dettol Soap,Household,289
+1827,Amul Milk,Personal Care,35
+1828,Aashirvaad Atta,Bakery,292
+1829,Sunlight Soap,Dairy,150
+1830,Dettol Soap,Dairy,376
+1831,Good Day Biscuit,Household,254
+1832,Colgate,Dairy,126
+1833,Bourbon Biscuit,Grocery,196
+1834,Good Day Biscuit,unknown,176
+1835,Dettol Soap,Grocery,277
+1836,Tata Salt,Household,277
+1837,Fortune Oil,Household,192
+1838,Amul Milk,Grocery,172
+1839,Tata Salt,Personal Care,208
+1840,Bourbon Biscuit,Personal Care,43
+1841,Tata Salt,Grocery,184
+1842,Fortune Oil,Grocery,309
+1843,Tata Salt,Household,263
+1844,Fortune Oil,Grocery,295
+1845,Bourbon Biscuit,Household,0
+1846,Bourbon Biscuit,Household,34
+1847,Sunlight Soap,Grocery,156
+1848,Aashirvaad Atta,Household,310
+1849,Amul Milk,Bakery,22
+1850,Sunlight Soap,Dairy,122
+1851,Colgate,Dairy,359
+1852,Undefine,Dairy,185
+1853,Good Day Biscuit,Dairy,226
+1854,Good Day Biscuit,Household,393
+1855,Colgate,Dairy,291
+1856,Colgate,Grocery,127
+1857,Colgate,Bakery,189
+1858,Aashirvaad Atta,Bakery,22
+1859,Sunlight Soap,Dairy,119
+1860,Sunlight Soap,Bakery,254
+1861,Fortune Oil,Bakery,188
+1862,Colgate,Personal Care,253
+1863,Colgate,Personal Care,56
+1864,Colgate,Grocery,19
+1865,Bourbon Biscuit,Household,365
+1866,Sunlight Soap,Household,148
+1867,Tata Salt,Dairy,196
+1868,Sunlight Soap,Household,149
+1869,Tata Salt,Household,338
+1870,Aashirvaad Atta,Household,325
+1871,Sunlight Soap,Dairy,389
+1872,Dettol Soap,Bakery,216
+1873,Amul Milk,Household,141
+1874,Aashirvaad Atta,Bakery,178
+1875,Colgate,Bakery,319
+1876,Tata Salt,Dairy,381
+1877,Fortune Oil,Household,187
+1878,Tata Salt,Dairy,11
+1879,Good Day Biscuit,Grocery,81
+1880,Sunlight Soap,Dairy,347
+1881,Undefine,Dairy,128
+1882,Fortune Oil,Personal Care,56
+1883,Tata Salt,Household,233
+1884,Amul Milk,unknown,14
+1885,Colgate,Personal Care,32
+1886,Aashirvaad Atta,Personal Care,150
+1887,Aashirvaad Atta,Personal Care,0
+1888,Fortune Oil,Household,261
+1889,Fortune Oil,Dairy,104
+1890,Tata Salt,Personal Care,128
+1891,Bourbon Biscuit,Household,197
+1892,Fortune Oil,Personal Care,304
+1893,Amul Milk,Dairy,13
+1894,Good Day Biscuit,Bakery,188
+1895,Sunlight Soap,Bakery,0
+1896,Fortune Oil,Dairy,47
+1897,Colgate,Grocery,331
+1898,Dettol Soap,Grocery,268
+1899,Fortune Oil,Dairy,0
+1900,Dettol Soap,unknown,33
+1901,Good Day Biscuit,Household,61
+1902,Dettol Soap,unknown,365
+1903,Aashirvaad Atta,Personal Care,71
+1904,Tata Salt,Grocery,262
+1905,Bourbon Biscuit,Household,60
+1906,Undefine,Bakery,175
+1907,Undefine,Household,0
+1908,Good Day Biscuit,Personal Care,213
+1909,Dettol Soap,Bakery,166
+1910,Amul Milk,Bakery,164
+1911,Sunlight Soap,Household,238
+1912,Colgate,Dairy,156
+1913,Fortune Oil,Grocery,259
+1914,Sunlight Soap,Grocery,60
+1915,Tata Salt,Grocery,56
+1916,Colgate,Personal Care,229
+1917,Tata Salt,Household,355
+1918,Sunlight Soap,Household,260
+1919,Sunlight Soap,Grocery,238
+1920,Aashirvaad Atta,Personal Care,23
+1921,Fortune Oil,Personal Care,328
+1922,Bourbon Biscuit,Dairy,242
+1923,Bourbon Biscuit,Grocery,277
+1924,Amul Milk,Personal Care,97
+1925,Amul Milk,Personal Care,80
+1926,Good Day Biscuit,Household,137
+1927,Sunlight Soap,Grocery,0
+1928,Amul Milk,Dairy,379
+1929,Tata Salt,Bakery,212
+1930,Bourbon Biscuit,Grocery,0
+1931,Aashirvaad Atta,Household,211
+1932,Undefine,Dairy,68
+1933,Sunlight Soap,Dairy,143
+1934,Amul Milk,Bakery,321
+1935,Aashirvaad Atta,Household,143
+1936,Sunlight Soap,Dairy,133
+1937,Sunlight Soap,unknown,157
+1938,Fortune Oil,Dairy,322
+1939,Dettol Soap,Personal Care,372
+1940,Bourbon Biscuit,unknown,212
+1941,Sunlight Soap,Household,180
+1942,Good Day Biscuit,unknown,323
+1943,Sunlight Soap,Bakery,126
+1944,Fortune Oil,Household,244
+1945,Aashirvaad Atta,Bakery,383
+1946,Tata Salt,Household,48
+1947,Tata Salt,Personal Care,149
+1948,Bourbon Biscuit,Household,26
+1949,Amul Milk,Grocery,363
+1950,Tata Salt,Personal Care,202
+1951,Aashirvaad Atta,Grocery,0
+1952,Tata Salt,Bakery,159
+1953,Dettol Soap,Personal Care,149
+1954,Aashirvaad Atta,Dairy,382
+1955,Fortune Oil,unknown,68
+1956,Sunlight Soap,Bakery,322
+1957,Dettol Soap,Grocery,192
+1958,Fortune Oil,Personal Care,152
+1959,Dettol Soap,Personal Care,163
+1960,Sunlight Soap,Dairy,36
+1961,Good Day Biscuit,Household,234
+1962,Good Day Biscuit,Household,320
+1963,Colgate,Dairy,343
+1964,Aashirvaad Atta,unknown,122
+1965,Colgate,Dairy,397
+1966,Fortune Oil,Bakery,180
+1967,Sunlight Soap,Dairy,190
+1968,Aashirvaad Atta,Household,265
+1969,Fortune Oil,Grocery,233
+1970,Sunlight Soap,Dairy,0
+1971,Dettol Soap,Dairy,30
+1972,Amul Milk,Household,337
+1973,Dettol Soap,Grocery,47
+1974,Colgate,Bakery,390
+1975,Aashirvaad Atta,Dairy,221
+1976,Good Day Biscuit,Personal Care,100
+1977,Tata Salt,Household,165
+1978,Bourbon Biscuit,Grocery,365
+1979,Tata Salt,Dairy,101
+1980,Good Day Biscuit,Personal Care,130
+1981,Amul Milk,Grocery,191
+1982,Undefine,Grocery,0
+1983,Tata Salt,Dairy,283
+1984,Tata Salt,Household,348
+1985,Undefine,Personal Care,153
+1986,Aashirvaad Atta,Bakery,255
+1987,Undefine,Household,252
+1988,Aashirvaad Atta,unknown,190
+1989,Amul Milk,Dairy,121
+1990,Dettol Soap,Personal Care,82
+1991,Aashirvaad Atta,Household,302
+1992,Aashirvaad Atta,Personal Care,108
+1993,Tata Salt,Grocery,107
+1994,Sunlight Soap,Bakery,102
+1995,Colgate,Personal Care,364
+1996,Aashirvaad Atta,Personal Care,73
+1997,Good Day Biscuit,Grocery,395
+1998,Good Day Biscuit,Bakery,126
+1999,Aashirvaad Atta,Personal Care,49
+2000,Aashirvaad Atta,Dairy,296
+2001,Aashirvaad Atta,Personal Care,314
+2002,Amul Milk,Grocery,365
+2003,Fortune Oil,Bakery,125
+2004,Sunlight Soap,Dairy,157
+2005,Amul Milk,Personal Care,48
+2006,Amul Milk,Grocery,108
+2007,Good Day Biscuit,Bakery,121
+2008,Dettol Soap,Household,291
+2009,Colgate,Personal Care,121
+2010,Dettol Soap,Dairy,145
+2011,Fortune Oil,Dairy,249
+2012,Undefine,Household,159
+2013,Aashirvaad Atta,Bakery,37
+2014,Bourbon Biscuit,Grocery,387
+2015,Amul Milk,Household,330
+2016,Bourbon Biscuit,Bakery,237
+2017,Bourbon Biscuit,Grocery,157
+2018,Fortune Oil,Household,91
+2019,Amul Milk,Personal Care,183
+2020,Sunlight Soap,Dairy,319
+2021,Good Day Biscuit,Bakery,198
+2022,Tata Salt,Bakery,127
+2023,Aashirvaad Atta,Personal Care,133
+2024,Bourbon Biscuit,Dairy,228
+2025,Fortune Oil,Personal Care,319
+2026,Good Day Biscuit,Grocery,335
+2027,Fortune Oil,Dairy,294
+2028,Colgate,Personal Care,58
+2029,Bourbon Biscuit,Grocery,138
+2030,Fortune Oil,Personal Care,299
+2031,Tata Salt,Household,318
+2032,Good Day Biscuit,Personal Care,29
+2033,Colgate,Grocery,26
+2034,Sunlight Soap,Bakery,0
+2035,Fortune Oil,Household,197
+2036,Aashirvaad Atta,Dairy,100
+2037,Aashirvaad Atta,Dairy,80
+2038,Fortune Oil,Grocery,71
+2039,Sunlight Soap,Personal Care,44
+2040,Undefine,Household,376
+2041,Sunlight Soap,Grocery,149
+2042,Colgate,Dairy,163
+2043,Good Day Biscuit,Bakery,350
+2044,Undefine,Bakery,241
+2045,Tata Salt,Personal Care,25
+2046,Good Day Biscuit,Personal Care,222
+2047,Colgate,Personal Care,0
+2048,Sunlight Soap,Bakery,296
+2049,Bourbon Biscuit,Personal Care,277
+2050,Sunlight Soap,Personal Care,206
+2051,Bourbon Biscuit,Personal Care,124
+2052,Good Day Biscuit,Personal Care,255
+2053,Dettol Soap,Grocery,20
+2054,Amul Milk,Household,22
+2055,Amul Milk,Grocery,236
+2056,Good Day Biscuit,Grocery,203
+2057,Good Day Biscuit,Bakery,354
+2058,Amul Milk,Personal Care,327
+2059,Colgate,Grocery,336
+2060,Aashirvaad Atta,Bakery,101
+2061,Sunlight Soap,Personal Care,169
+2062,Fortune Oil,Dairy,82
+2063,Fortune Oil,unknown,369
+2064,Tata Salt,Household,0
+2065,Good Day Biscuit,Grocery,69
+2066,Dettol Soap,Household,248
+2067,Colgate,Household,107
+2068,Amul Milk,Dairy,170
+2069,Colgate,Grocery,256
+2070,Aashirvaad Atta,Personal Care,354
+2071,Dettol Soap,Grocery,260
+2072,Good Day Biscuit,Household,233
+2073,Aashirvaad Atta,Grocery,85
+2074,Aashirvaad Atta,Personal Care,273
+2075,Aashirvaad Atta,Dairy,321
+2076,Sunlight Soap,Personal Care,332
+2077,Amul Milk,Household,143
+2078,Colgate,Dairy,155
+2079,Amul Milk,Personal Care,331
+2080,Good Day Biscuit,unknown,46
+2081,Sunlight Soap,Grocery,393
+2082,Dettol Soap,Household,208
+2083,Bourbon Biscuit,Household,73
+2084,Amul Milk,Dairy,118
+2085,Aashirvaad Atta,unknown,154
+2086,Fortune Oil,unknown,255
+2087,Amul Milk,Personal Care,150
+2088,Aashirvaad Atta,Grocery,293
+2089,Good Day Biscuit,Household,188
+2090,Sunlight Soap,Personal Care,164
+2091,Tata Salt,Dairy,135
+2092,Dettol Soap,Grocery,212
+2093,Good Day Biscuit,Dairy,358
+2094,Dettol Soap,Dairy,0
+2095,Colgate,Household,248
+2096,Undefine,Personal Care,151
+2097,Good Day Biscuit,Household,329
+2098,Fortune Oil,Grocery,187
+2099,Fortune Oil,unknown,122
+2100,Aashirvaad Atta,Bakery,98
+2101,Sunlight Soap,Bakery,233
+2102,Good Day Biscuit,Personal Care,129
+2103,Aashirvaad Atta,Bakery,111
+2104,Aashirvaad Atta,Household,307
+2105,Good Day Biscuit,Personal Care,345
+2106,Good Day Biscuit,Bakery,93
+2107,Sunlight Soap,Household,294
+2108,Aashirvaad Atta,Personal Care,352
+2109,Fortune Oil,Grocery,149
+2110,Sunlight Soap,Bakery,107
+2111,Bourbon Biscuit,Bakery,284
+2112,Sunlight Soap,Household,336
+2113,Bourbon Biscuit,Dairy,245
+2114,Dettol Soap,Household,14
+2115,Dettol Soap,Household,234
+2116,Dettol Soap,Household,0
+2117,Tata Salt,Household,374
+2118,Bourbon Biscuit,unknown,66
+2119,Dettol Soap,Dairy,308
+2120,Dettol Soap,Personal Care,22
+2121,Aashirvaad Atta,Grocery,0
+2122,Sunlight Soap,Household,330
+2123,Good Day Biscuit,Personal Care,0
+2124,Sunlight Soap,Bakery,283
+2125,Bourbon Biscuit,Grocery,230
+2126,Good Day Biscuit,Dairy,320
+2127,Tata Salt,Household,371
+2128,Sunlight Soap,Personal Care,131
+2129,Dettol Soap,Personal Care,396
+2130,Amul Milk,Personal Care,61
+2131,Amul Milk,Personal Care,186
+2132,Good Day Biscuit,Grocery,123
+2133,Fortune Oil,Household,75
+2134,Amul Milk,Grocery,71
+2135,Tata Salt,unknown,99
+2136,Good Day Biscuit,Dairy,178
+2137,Fortune Oil,Grocery,99
+2138,Sunlight Soap,Dairy,400
+2139,Aashirvaad Atta,Bakery,232
+2140,Fortune Oil,Grocery,237
+2141,Bourbon Biscuit,Household,240
+2142,Undefine,Household,178
+2143,Fortune Oil,Household,340
+2144,Good Day Biscuit,Bakery,18
+2145,Amul Milk,Household,315
+2146,Fortune Oil,Bakery,50
+2147,Tata Salt,Household,213
+2148,Dettol Soap,Household,36
+2149,Aashirvaad Atta,Personal Care,143
+2150,Tata Salt,Household,76
+2151,Dettol Soap,Dairy,379
+2152,Dettol Soap,Grocery,125
+2153,Amul Milk,Personal Care,0
+2154,Fortune Oil,Personal Care,146
+2155,Dettol Soap,Bakery,123
+2156,Amul Milk,Dairy,262
+2157,Amul Milk,Personal Care,39
+2158,Colgate,Grocery,260
+2159,Bourbon Biscuit,Dairy,303
+2160,Dettol Soap,Personal Care,103
+2161,Dettol Soap,Bakery,133
+2162,Bourbon Biscuit,Dairy,151
+2163,Fortune Oil,Bakery,392
+2164,Dettol Soap,Grocery,286
+2165,Good Day Biscuit,Bakery,215
+2166,Tata Salt,Personal Care,48
+2167,Aashirvaad Atta,unknown,36
+2168,Sunlight Soap,Personal Care,329
+2169,Fortune Oil,Household,127
+2170,Fortune Oil,Grocery,0
+2171,Colgate,Grocery,179
+2172,Sunlight Soap,Personal Care,389
+2173,Sunlight Soap,Household,305
+2174,Colgate,Personal Care,328
+2175,Dettol Soap,Grocery,241
+2176,Aashirvaad Atta,Bakery,243
+2177,Aashirvaad Atta,Dairy,0
+2178,Undefine,Personal Care,184
+2179,Tata Salt,Household,303
+2180,Colgate,Grocery,40
+2181,Sunlight Soap,Household,86
+2182,Sunlight Soap,Grocery,0
+2183,Amul Milk,Dairy,80
+2184,Aashirvaad Atta,Grocery,268
+2185,Tata Salt,Bakery,30
+2186,Good Day Biscuit,Grocery,281
+2187,Undefine,Dairy,141
+2188,Bourbon Biscuit,Household,161
+2189,Undefine,Dairy,170
+2190,Fortune Oil,Dairy,382
+2191,Amul Milk,Grocery,190
+2192,Good Day Biscuit,Household,81
+2193,Fortune Oil,Dairy,208
+2194,Amul Milk,Dairy,0
+2195,Good Day Biscuit,Bakery,0
+2196,Fortune Oil,Grocery,220
+2197,Bourbon Biscuit,Personal Care,240
+2198,Fortune Oil,Grocery,389
+2199,Fortune Oil,Bakery,308
+2200,Good Day Biscuit,Dairy,203
+2201,Fortune Oil,Personal Care,188
+2202,Bourbon Biscuit,Personal Care,98
+2203,Sunlight Soap,Household,259
+2204,Colgate,Personal Care,126
+2205,Aashirvaad Atta,Household,311
+2206,Amul Milk,Grocery,0
+2207,Undefine,Household,36
+2208,Dettol Soap,Personal Care,318
+2209,Aashirvaad Atta,Personal Care,227
+2210,Colgate,Household,46
+2211,Aashirvaad Atta,Household,140
+2212,Dettol Soap,Household,378
+2213,Bourbon Biscuit,Household,82
+2214,Good Day Biscuit,Personal Care,210
+2215,Amul Milk,Dairy,113
+2216,Colgate,Bakery,0
+2217,Tata Salt,Dairy,0
+2218,Tata Salt,Bakery,396
+2219,Fortune Oil,Bakery,128
+2220,Colgate,Household,268
+2221,Tata Salt,Household,267
+2222,Tata Salt,Bakery,387
+2223,Colgate,Grocery,79
+2224,Aashirvaad Atta,Grocery,0
+2225,Dettol Soap,Bakery,393
+2226,Amul Milk,Bakery,0
+2227,Colgate,Household,123
+2228,Dettol Soap,Personal Care,375
+2229,Colgate,unknown,146
+2230,Amul Milk,Dairy,13
+2231,Colgate,Household,237
+2232,Good Day Biscuit,Bakery,194
+2233,Good Day Biscuit,Household,33
+2234,Undefine,Personal Care,87
+2235,Tata Salt,Personal Care,233
+2236,Dettol Soap,Dairy,140
+2237,Bourbon Biscuit,Grocery,366
+2238,Amul Milk,Bakery,102
+2239,Colgate,Bakery,347
+2240,Fortune Oil,Bakery,314
+2241,Good Day Biscuit,Household,387
+2242,Dettol Soap,Personal Care,390
+2243,Amul Milk,Dairy,31
+2244,Fortune Oil,Personal Care,102
+2245,Sunlight Soap,Grocery,134
+2246,Sunlight Soap,unknown,116
+2247,Fortune Oil,Personal Care,164
+2248,Bourbon Biscuit,unknown,64
+2249,Dettol Soap,Dairy,52
+2250,Colgate,Personal Care,43
+2251,Amul Milk,unknown,287
+2252,Bourbon Biscuit,Dairy,37
+2253,Amul Milk,Grocery,0
+2254,Amul Milk,Household,348
+2255,Aashirvaad Atta,Personal Care,107
+2256,Bourbon Biscuit,Personal Care,234
+2257,Undefine,Dairy,380
+2258,Amul Milk,Household,356
+2259,Amul Milk,Bakery,99
+2260,Colgate,Personal Care,275
+2261,Sunlight Soap,Household,384
+2262,Bourbon Biscuit,Personal Care,333
+2263,Fortune Oil,Personal Care,0
+2264,Tata Salt,Grocery,29
+2265,Tata Salt,unknown,144
+2266,Amul Milk,Household,145
+2267,Tata Salt,Personal Care,114
+2268,Good Day Biscuit,Bakery,183
+2269,Fortune Oil,Dairy,362
+2270,Sunlight Soap,unknown,387
+2271,Dettol Soap,Household,0
+2272,Dettol Soap,Grocery,244
+2273,Bourbon Biscuit,Bakery,385
+2274,Dettol Soap,Household,150
+2275,Colgate,Bakery,50
+2276,Dettol Soap,Personal Care,0
+2277,Sunlight Soap,Personal Care,160
+2278,Sunlight Soap,Personal Care,78
+2279,Tata Salt,Dairy,382
+2280,Aashirvaad Atta,Household,344
+2281,Aashirvaad Atta,Grocery,272
+2282,Aashirvaad Atta,Grocery,350
+2283,Sunlight Soap,Household,0
+2284,Colgate,Household,296
+2285,Tata Salt,Personal Care,145
+2286,Dettol Soap,Grocery,233
+2287,Sunlight Soap,Household,213
+2288,Good Day Biscuit,Bakery,227
+2289,Sunlight Soap,unknown,385
+2290,Fortune Oil,Household,75
+2291,Bourbon Biscuit,Grocery,39
+2292,Amul Milk,Household,377
+2293,Dettol Soap,Household,0
+2294,Aashirvaad Atta,Bakery,169
+2295,Colgate,Personal Care,227
+2296,Fortune Oil,Household,277
+2297,Dettol Soap,Bakery,13
+2298,Sunlight Soap,Dairy,360
+2299,Good Day Biscuit,Dairy,176
+2300,Bourbon Biscuit,Bakery,72
+2301,Colgate,Bakery,331
+2302,Good Day Biscuit,Bakery,30
+2303,Aashirvaad Atta,Personal Care,306
+2304,Colgate,Personal Care,0
+2305,Bourbon Biscuit,Bakery,0
+2306,Tata Salt,Grocery,0
+2307,Good Day Biscuit,Grocery,75
+2308,Aashirvaad Atta,Dairy,41
+2309,Fortune Oil,Bakery,250
+2310,Aashirvaad Atta,Grocery,60
+2311,Amul Milk,Dairy,127
+2312,Amul Milk,Grocery,154
+2313,Dettol Soap,Household,249
+2314,Aashirvaad Atta,unknown,386
+2315,Dettol Soap,Bakery,386
+2316,Bourbon Biscuit,Personal Care,64
+2317,Bourbon Biscuit,Grocery,202
+2318,Good Day Biscuit,Bakery,214
+2319,Fortune Oil,unknown,249
+2320,Bourbon Biscuit,Personal Care,242
+2321,Good Day Biscuit,Grocery,112
+2322,Fortune Oil,Bakery,332
+2323,Colgate,Household,228
+2324,Amul Milk,Dairy,88
+2325,Dettol Soap,Bakery,0
+2326,Amul Milk,Dairy,158
+2327,Sunlight Soap,Personal Care,206
+2328,Amul Milk,Household,342
+2329,Dettol Soap,Grocery,22
+2330,Fortune Oil,Household,258
+2331,Colgate,Dairy,363
+2332,Tata Salt,Bakery,320
+2333,Aashirvaad Atta,Bakery,47
+2334,Aashirvaad Atta,Personal Care,302
+2335,Amul Milk,Personal Care,13
+2336,Undefine,Personal Care,147
+2337,Dettol Soap,Bakery,0
+2338,Dettol Soap,Grocery,243
+2339,Tata Salt,Grocery,16
+2340,Amul Milk,Bakery,90
+2341,Undefine,Personal Care,363
+2342,Fortune Oil,Dairy,88
+2343,Good Day Biscuit,Grocery,14
+2344,Tata Salt,unknown,72
+2345,Bourbon Biscuit,unknown,211
+2346,Undefine,Bakery,279
+2347,Colgate,unknown,192
+2348,Good Day Biscuit,Bakery,47
+2349,Colgate,Grocery,81
+2350,Aashirvaad Atta,Grocery,113
+2351,Colgate,Household,178
+2352,Fortune Oil,Household,219
+2353,Dettol Soap,Personal Care,255
+2354,Good Day Biscuit,Household,118
+2355,Dettol Soap,Household,73
+2356,Tata Salt,Personal Care,362
+2357,Good Day Biscuit,Household,308
+2358,Aashirvaad Atta,Household,305
+2359,Fortune Oil,Grocery,128
+2360,Sunlight Soap,Household,172
+2361,Amul Milk,Grocery,372
+2362,Bourbon Biscuit,Household,125
+2363,Amul Milk,Grocery,192
+2364,Dettol Soap,unknown,91
+2365,Dettol Soap,Grocery,45
+2366,Tata Salt,unknown,334
+2367,Aashirvaad Atta,Bakery,319
+2368,Colgate,Household,87
+2369,Dettol Soap,unknown,72
+2370,Colgate,Dairy,115
+2371,Undefine,Grocery,123
+2372,Good Day Biscuit,Bakery,348
+2373,Sunlight Soap,unknown,231
+2374,Good Day Biscuit,Dairy,62
+2375,Bourbon Biscuit,Household,66
+2376,Good Day Biscuit,Dairy,361
+2377,Bourbon Biscuit,unknown,26
+2378,Sunlight Soap,Dairy,47
+2379,Undefine,Household,234
+2380,Good Day Biscuit,Dairy,235
+2381,Sunlight Soap,Bakery,343
+2382,Colgate,Household,78
+2383,Undefine,Bakery,0
+2384,Bourbon Biscuit,Dairy,270
+2385,Fortune Oil,Grocery,11
+2386,Amul Milk,Grocery,144
+2387,Bourbon Biscuit,Dairy,165
+2388,Sunlight Soap,unknown,0
+2389,Amul Milk,Personal Care,21
+2390,Bourbon Biscuit,Dairy,398
+2391,Colgate,Grocery,191
+2392,Good Day Biscuit,Grocery,105
+2393,Amul Milk,Household,300
+2394,Good Day Biscuit,unknown,21
+2395,Sunlight Soap,Grocery,221
+2396,Aashirvaad Atta,Personal Care,178
+2397,Aashirvaad Atta,Personal Care,228
+2398,Aashirvaad Atta,Grocery,190
+2399,Good Day Biscuit,Personal Care,251
+2400,Amul Milk,Personal Care,88
+2401,Good Day Biscuit,Grocery,264
+2402,Sunlight Soap,Dairy,50
+2403,Colgate,Dairy,0
+2404,Fortune Oil,Bakery,318
+2405,Tata Salt,Household,359
+2406,Good Day Biscuit,Grocery,0
+2407,Undefine,Household,0
+2408,Aashirvaad Atta,unknown,324
+2409,Tata Salt,Household,234
+2410,Sunlight Soap,Personal Care,0
+2411,Aashirvaad Atta,Grocery,224
+2412,Fortune Oil,Household,221
+2413,Bourbon Biscuit,Bakery,284
+2414,Colgate,Bakery,352
+2415,Bourbon Biscuit,Household,322
+2416,Amul Milk,Personal Care,110
+2417,Fortune Oil,Personal Care,99
+2418,Amul Milk,Dairy,0
+2419,Colgate,Dairy,96
+2420,Fortune Oil,Bakery,291
+2421,Undefine,Household,377
+2422,Amul Milk,Grocery,158
+2423,Bourbon Biscuit,Bakery,368
+2424,Undefine,Grocery,354
+2425,Sunlight Soap,Household,60
+2426,Dettol Soap,Dairy,0
+2427,Dettol Soap,Household,267
+2428,Aashirvaad Atta,Dairy,46
+2429,Tata Salt,Personal Care,21
+2430,Good Day Biscuit,Dairy,267
+2431,Undefine,Grocery,329
+2432,Dettol Soap,Bakery,286
+2433,Bourbon Biscuit,Grocery,166
+2434,Colgate,Grocery,163
+2435,Dettol Soap,Dairy,0
+2436,Bourbon Biscuit,Dairy,19
+2437,Aashirvaad Atta,Household,330
+2438,Aashirvaad Atta,Grocery,207
+2439,Bourbon Biscuit,Household,303
+2440,Fortune Oil,Personal Care,88
+2441,Dettol Soap,Bakery,385
+2442,Sunlight Soap,Bakery,45
+2443,Dettol Soap,Grocery,255
+2444,Amul Milk,Bakery,102
+2445,Colgate,Grocery,106
+2446,Amul Milk,Personal Care,385
+2447,Colgate,Grocery,153
+2448,Fortune Oil,Bakery,372
+2449,Bourbon Biscuit,Personal Care,0
+2450,Good Day Biscuit,Personal Care,239
+2451,Fortune Oil,Dairy,324
+2452,Aashirvaad Atta,Household,286
+2453,Fortune Oil,Dairy,147
+2454,Bourbon Biscuit,Bakery,180
+2455,Aashirvaad Atta,Grocery,34
+2456,Aashirvaad Atta,Dairy,155
+2457,Bourbon Biscuit,Grocery,223
+2458,Bourbon Biscuit,Dairy,228
+2459,Amul Milk,Dairy,147
+2460,Dettol Soap,Dairy,89
+2461,Fortune Oil,Dairy,384
+2462,Sunlight Soap,Dairy,138
+2463,Colgate,Personal Care,136
+2464,Amul Milk,Household,104
+2465,Bourbon Biscuit,Bakery,75
+2466,Amul Milk,Dairy,74
+2467,Sunlight Soap,Grocery,211
+2468,Colgate,Personal Care,65
+2469,Colgate,Personal Care,298
+2470,Sunlight Soap,Dairy,44
+2471,Colgate,Grocery,0
+2472,Dettol Soap,Dairy,286
+2473,Fortune Oil,Personal Care,57
+2474,Aashirvaad Atta,Dairy,57
+2475,Sunlight Soap,Personal Care,0
+2476,Colgate,Dairy,37
+2477,Fortune Oil,Bakery,36
+2478,Bourbon Biscuit,Dairy,399
+2479,Aashirvaad Atta,Grocery,323
+2480,Undefine,Grocery,243
+2481,Sunlight Soap,Grocery,347
+2482,Undefine,Bakery,393
+2483,Aashirvaad Atta,Bakery,53
+2484,Undefine,Personal Care,274
+2485,Sunlight Soap,Personal Care,376
+2486,Colgate,Personal Care,38
+2487,Good Day Biscuit,Grocery,76
+2488,Dettol Soap,Grocery,0
+2489,Tata Salt,Personal Care,390
+2490,Tata Salt,Personal Care,130
+2491,Good Day Biscuit,unknown,286
+2492,Tata Salt,Bakery,169
+2493,Sunlight Soap,Dairy,318
+2494,Sunlight Soap,Dairy,68
+2495,Dettol Soap,unknown,395
+2496,Amul Milk,Grocery,203
+2497,Fortune Oil,Dairy,341
+2498,Fortune Oil,Bakery,95
+2499,Sunlight Soap,unknown,332
+2500,Bourbon Biscuit,Grocery,0
+2501,Tata Salt,Dairy,89
+2502,Fortune Oil,Grocery,46
+2503,Aashirvaad Atta,Household,39
+2504,Fortune Oil,Dairy,349
+2505,Aashirvaad Atta,Dairy,313
+2506,Good Day Biscuit,Bakery,311
+2507,Good Day Biscuit,Dairy,265
+2508,Dettol Soap,Dairy,84
+2509,Good Day Biscuit,Personal Care,63
+2510,Bourbon Biscuit,Grocery,122
+2511,Good Day Biscuit,Bakery,106
+2512,Dettol Soap,Grocery,317
+2513,Sunlight Soap,Dairy,309
+2514,Dettol Soap,Dairy,230
+2515,Aashirvaad Atta,unknown,94
+2516,Good Day Biscuit,unknown,262
+2517,Sunlight Soap,Grocery,285
+2518,Good Day Biscuit,Personal Care,394
+2519,Colgate,Bakery,34
+2520,Tata Salt,Bakery,0
+2521,Amul Milk,Bakery,277
+2522,Bourbon Biscuit,Bakery,0
+2523,Dettol Soap,Personal Care,114
+2524,Aashirvaad Atta,Dairy,102
+2525,Colgate,Grocery,121
+2526,Amul Milk,Bakery,154
+2527,Fortune Oil,Personal Care,218
+2528,Bourbon Biscuit,Household,56
+2529,Colgate,Dairy,0
+2530,Tata Salt,Dairy,81
+2531,Good Day Biscuit,Personal Care,257
+2532,Good Day Biscuit,Personal Care,264
+2533,Colgate,Dairy,352
+2534,Good Day Biscuit,Household,266
+2535,Good Day Biscuit,Household,0
+2536,Dettol Soap,Personal Care,318
+2537,Amul Milk,Bakery,223
+2538,Tata Salt,Dairy,270
+2539,Tata Salt,Grocery,312
+2540,Colgate,unknown,275
+2541,Sunlight Soap,Grocery,98
+2542,Colgate,unknown,0
+2543,Dettol Soap,Household,186
+2544,Good Day Biscuit,Household,85
+2545,Tata Salt,Grocery,309
+2546,Tata Salt,Bakery,168
+2547,Fortune Oil,Personal Care,174
+2548,Tata Salt,Personal Care,0
+2549,Tata Salt,Grocery,302
+2550,Good Day Biscuit,Grocery,0
+2551,Sunlight Soap,Personal Care,141
+2552,Good Day Biscuit,Dairy,39
+2553,Aashirvaad Atta,Bakery,173
+2554,Colgate,Bakery,11
+2555,Dettol Soap,Personal Care,66
+2556,Good Day Biscuit,Household,230
+2557,Tata Salt,Dairy,357
+2558,Bourbon Biscuit,Bakery,275
+2559,Fortune Oil,Grocery,268
+2560,Undefine,Dairy,170
+2561,Sunlight Soap,Dairy,285
+2562,Bourbon Biscuit,unknown,289
+2563,Undefine,Grocery,110
+2564,Tata Salt,Bakery,96
+2565,Colgate,Household,274
+2566,Sunlight Soap,Dairy,338
+2567,Sunlight Soap,Personal Care,0
+2568,Aashirvaad Atta,Dairy,107
+2569,Aashirvaad Atta,Dairy,211
+2570,Fortune Oil,Bakery,52
+2571,Sunlight Soap,Bakery,98
+2572,Undefine,Personal Care,0
+2573,Colgate,Personal Care,45
+2574,Sunlight Soap,unknown,96
+2575,Tata Salt,Household,216
+2576,Dettol Soap,Household,106
+2577,Bourbon Biscuit,Personal Care,16
+2578,Tata Salt,Dairy,0
+2579,Undefine,Household,259
+2580,Sunlight Soap,Personal Care,216
+2581,Dettol Soap,Dairy,126
+2582,Colgate,unknown,0
+2583,Tata Salt,Grocery,29
+2584,Undefine,Personal Care,205
+2585,Aashirvaad Atta,Household,0
+2586,Aashirvaad Atta,Dairy,0
+2587,Bourbon Biscuit,Personal Care,84
+2588,Amul Milk,Grocery,0
+2589,Undefine,Bakery,14
+2590,Sunlight Soap,Dairy,127
+2591,Dettol Soap,Dairy,249
+2592,Amul Milk,Bakery,0
+2593,Bourbon Biscuit,Grocery,328
+2594,Sunlight Soap,Grocery,314
+2595,Dettol Soap,Personal Care,350
+2596,Undefine,Grocery,147
+2597,Colgate,Bakery,362
+2598,Dettol Soap,Bakery,344
+2599,Dettol Soap,Dairy,157
+2600,Tata Salt,Household,122
+2601,Amul Milk,Bakery,176
+2602,Colgate,Bakery,47
+2603,Colgate,Bakery,171
+2604,Fortune Oil,Household,276
+2605,Sunlight Soap,Dairy,270
+2606,Good Day Biscuit,Grocery,30
+2607,Amul Milk,Bakery,297
+2608,Amul Milk,Dairy,46
+2609,Aashirvaad Atta,Dairy,326
+2610,Sunlight Soap,Dairy,82
+2611,Aashirvaad Atta,Personal Care,331
+2612,Aashirvaad Atta,Household,218
+2613,Bourbon Biscuit,Household,272
+2614,Dettol Soap,Dairy,362
+2615,Tata Salt,Bakery,0
+2616,Undefine,Personal Care,26
+2617,Colgate,Grocery,380
+2618,Colgate,Household,298
+2619,Aashirvaad Atta,Grocery,207
+2620,Colgate,Personal Care,397
+2621,Dettol Soap,Bakery,22
+2622,Aashirvaad Atta,Dairy,143
+2623,Dettol Soap,unknown,246
+2624,Amul Milk,Household,0
+2625,Fortune Oil,Bakery,355
+2626,Amul Milk,Bakery,249
+2627,Undefine,Bakery,254
+2628,Sunlight Soap,Dairy,389
+2629,Undefine,Household,255
+2630,Undefine,Grocery,141
+2631,Aashirvaad Atta,Grocery,0
+2632,Tata Salt,unknown,0
+2633,Fortune Oil,Dairy,226
+2634,Colgate,Dairy,172
+2635,Aashirvaad Atta,Household,203
+2636,Dettol Soap,Grocery,279
+2637,Sunlight Soap,Personal Care,188
+2638,Fortune Oil,Bakery,45
+2639,Amul Milk,Dairy,181
+2640,Undefine,Household,0
+2641,Aashirvaad Atta,Household,352
+2642,Sunlight Soap,Dairy,271
+2643,Fortune Oil,Household,268
+2644,Sunlight Soap,Bakery,76
+2645,Good Day Biscuit,Dairy,349
+2646,Sunlight Soap,Household,247
+2647,Amul Milk,Bakery,198
+2648,Amul Milk,Bakery,154
+2649,Aashirvaad Atta,Grocery,29
+2650,Sunlight Soap,Bakery,138
+2651,Bourbon Biscuit,Personal Care,117
+2652,Tata Salt,Personal Care,378
+2653,Fortune Oil,Household,313
+2654,Good Day Biscuit,Grocery,30
+2655,Dettol Soap,Bakery,308
+2656,Dettol Soap,Household,160
+2657,Good Day Biscuit,Household,346
+2658,Bourbon Biscuit,Dairy,254
+2659,Good Day Biscuit,Bakery,222
+2660,Fortune Oil,unknown,39
+2661,Colgate,Household,86
+2662,Sunlight Soap,Dairy,386
+2663,Dettol Soap,Household,130
+2664,Good Day Biscuit,Bakery,0
+2665,Bourbon Biscuit,Grocery,76
+2666,Good Day Biscuit,Personal Care,134
+2667,Fortune Oil,Bakery,91
+2668,Dettol Soap,Grocery,65
+2669,Aashirvaad Atta,Bakery,234
+2670,Colgate,Dairy,310
+2671,Aashirvaad Atta,Bakery,214
+2672,Bourbon Biscuit,Grocery,305
+2673,Sunlight Soap,Bakery,53
+2674,Bourbon Biscuit,Grocery,26
+2675,Sunlight Soap,Grocery,93
+2676,Sunlight Soap,Grocery,328
+2677,Tata Salt,Grocery,177
+2678,Colgate,Bakery,28
+2679,Tata Salt,Personal Care,275
+2680,Amul Milk,Personal Care,0
+2681,Sunlight Soap,Dairy,0
+2682,Tata Salt,Bakery,0
+2683,Undefine,Grocery,175
+2684,Good Day Biscuit,Grocery,281
+2685,Bourbon Biscuit,Personal Care,385
+2686,Bourbon Biscuit,Personal Care,325
+2687,Bourbon Biscuit,Dairy,0
+2688,Tata Salt,Bakery,0
+2689,Good Day Biscuit,Household,17
+2690,Good Day Biscuit,Dairy,15
+2691,Undefine,Personal Care,249
+2692,Amul Milk,Dairy,322
+2693,Fortune Oil,Grocery,276
+2694,Dettol Soap,Grocery,0
+2695,Tata Salt,Bakery,380
+2696,Good Day Biscuit,Dairy,193
+2697,Good Day Biscuit,Personal Care,15
+2698,Amul Milk,Household,366
+2699,Good Day Biscuit,Personal Care,396
+2700,Fortune Oil,unknown,188
+2701,Undefine,Household,21
+2702,Bourbon Biscuit,Dairy,170
+2703,Amul Milk,Personal Care,263
+2704,Dettol Soap,Grocery,149
+2705,Aashirvaad Atta,Grocery,241
+2706,Good Day Biscuit,Household,151
+2707,Fortune Oil,Grocery,294
+2708,Colgate,Dairy,16
+2709,Colgate,Household,374
+2710,Undefine,Dairy,252
+2711,Colgate,Personal Care,360
+2712,Dettol Soap,Grocery,68
+2713,Good Day Biscuit,Household,151
+2714,Bourbon Biscuit,Dairy,106
+2715,Sunlight Soap,Dairy,291
+2716,Colgate,Grocery,396
+2717,Undefine,unknown,76
+2718,Bourbon Biscuit,Grocery,337
+2719,Colgate,Personal Care,0
+2720,Colgate,Dairy,75
+2721,Fortune Oil,Dairy,366
+2722,Colgate,Grocery,104
+2723,Fortune Oil,Grocery,268
+2724,Tata Salt,Personal Care,84
+2725,Tata Salt,Grocery,247
+2726,Fortune Oil,Dairy,0
+2727,Fortune Oil,Personal Care,179
+2728,Dettol Soap,Grocery,385
+2729,Colgate,Bakery,0
+2730,Good Day Biscuit,Bakery,43
+2731,Aashirvaad Atta,Household,365
+2732,Amul Milk,Personal Care,40
+2733,Bourbon Biscuit,Dairy,160
+2734,Bourbon Biscuit,Grocery,197
+2735,Amul Milk,Household,272
+2736,Fortune Oil,Dairy,107
+2737,Dettol Soap,Household,234
+2738,Amul Milk,Household,38
+2739,Aashirvaad Atta,Personal Care,144
+2740,Dettol Soap,Bakery,298
+2741,Sunlight Soap,Grocery,240
+2742,Sunlight Soap,Personal Care,305
+2743,Undefine,Grocery,239
+2744,Bourbon Biscuit,Household,290
+2745,Sunlight Soap,Personal Care,0
+2746,Fortune Oil,Personal Care,22
+2747,Amul Milk,Personal Care,302
+2748,Colgate,Personal Care,139
+2749,Dettol Soap,Household,249
+2750,Tata Salt,Personal Care,56
+2751,Aashirvaad Atta,Household,370
+2752,Dettol Soap,Bakery,334
+2753,Colgate,Grocery,147
+2754,Good Day Biscuit,Bakery,73
+2755,Fortune Oil,Bakery,331
+2756,Bourbon Biscuit,Grocery,309
+2757,Amul Milk,Personal Care,42
+2758,Tata Salt,Bakery,180
+2759,Amul Milk,Household,366
+2760,Sunlight Soap,Grocery,143
+2761,Amul Milk,Grocery,378
+2762,Good Day Biscuit,Grocery,196
+2763,Fortune Oil,Bakery,346
+2764,Aashirvaad Atta,Household,308
+2765,Colgate,Dairy,0
+2766,Colgate,Grocery,208
+2767,Colgate,Dairy,0
+2768,Bourbon Biscuit,Bakery,31
+2769,Fortune Oil,Dairy,30
+2770,Bourbon Biscuit,Personal Care,203
+2771,Sunlight Soap,Grocery,95
+2772,Bourbon Biscuit,Household,211
+2773,Amul Milk,unknown,198
+2774,Sunlight Soap,Dairy,166
+2775,Fortune Oil,Personal Care,380
+2776,Aashirvaad Atta,Bakery,0
+2777,Bourbon Biscuit,Bakery,248
+2778,Colgate,Household,75
+2779,Dettol Soap,Household,127
+2780,Amul Milk,Household,84
+2781,Good Day Biscuit,Bakery,0
+2782,Bourbon Biscuit,Household,84
+2783,Sunlight Soap,Bakery,0
+2784,Amul Milk,Grocery,362
+2785,Sunlight Soap,Grocery,307
+2786,Bourbon Biscuit,Personal Care,208
+2787,Aashirvaad Atta,Dairy,399
+2788,Dettol Soap,Household,136
+2789,Dettol Soap,Personal Care,135
+2790,Fortune Oil,Household,128
+2791,Dettol Soap,unknown,56
+2792,Sunlight Soap,Personal Care,131
+2793,Fortune Oil,Grocery,302
+2794,Amul Milk,Household,166
+2795,Bourbon Biscuit,Dairy,258
+2796,Good Day Biscuit,Bakery,65
+2797,Good Day Biscuit,Household,295
+2798,Dettol Soap,Bakery,123
+2799,Good Day Biscuit,Personal Care,0
+2800,Good Day Biscuit,Grocery,174
+2801,Sunlight Soap,Dairy,302
+2802,Dettol Soap,Household,0
+2803,Dettol Soap,Dairy,277
+2804,Colgate,Dairy,265
+2805,Fortune Oil,Grocery,0
+2806,Aashirvaad Atta,Dairy,316
+2807,Bourbon Biscuit,Personal Care,380
+2808,Colgate,Household,365
+2809,Colgate,Household,190
+2810,Amul Milk,Dairy,292
+2811,Dettol Soap,Household,40
+2812,Aashirvaad Atta,Dairy,172
+2813,Good Day Biscuit,Household,395
+2814,Bourbon Biscuit,unknown,53
+2815,Fortune Oil,Personal Care,130
+2816,Fortune Oil,Household,97
+2817,Undefine,Dairy,355
+2818,Colgate,Grocery,165
+2819,Good Day Biscuit,Grocery,166
+2820,Colgate,Grocery,0
+2821,Aashirvaad Atta,Grocery,135
+2822,Aashirvaad Atta,Household,61
+2823,Amul Milk,Dairy,54
+2824,Colgate,Grocery,31
+2825,Sunlight Soap,Household,107
+2826,Amul Milk,Bakery,267
+2827,Good Day Biscuit,Household,58
+2828,Undefine,Dairy,259
+2829,Tata Salt,unknown,122
+2830,Colgate,Household,274
+2831,Amul Milk,Household,169
+2832,Bourbon Biscuit,Dairy,12
+2833,Fortune Oil,Grocery,329
+2834,Undefine,Bakery,0
+2835,Aashirvaad Atta,Grocery,159
+2836,Fortune Oil,Dairy,397
+2837,Aashirvaad Atta,Personal Care,100
+2838,Undefine,Bakery,297
+2839,Amul Milk,Bakery,186
+2840,Colgate,Household,191
+2841,Fortune Oil,Bakery,164
+2842,Undefine,Dairy,365
+2843,Sunlight Soap,Bakery,312
+2844,Amul Milk,Bakery,0
+2845,Sunlight Soap,Grocery,306
+2846,Amul Milk,Household,314
+2847,Fortune Oil,Dairy,253
+2848,Amul Milk,Grocery,320
+2849,Colgate,Bakery,109
+2850,Tata Salt,unknown,356
+2851,Amul Milk,Dairy,205
+2852,Bourbon Biscuit,Household,182
+2853,Bourbon Biscuit,Household,0
+2854,Tata Salt,Dairy,255
+2855,Bourbon Biscuit,Dairy,48
+2856,Undefine,Household,255
+2857,Fortune Oil,Dairy,90
+2858,Sunlight Soap,Personal Care,280
+2859,Dettol Soap,Household,246
+2860,Dettol Soap,Grocery,203
+2861,Sunlight Soap,Dairy,202
+2862,Aashirvaad Atta,Household,396
+2863,Fortune Oil,Personal Care,361
+2864,Aashirvaad Atta,Grocery,0
+2865,Amul Milk,Household,0
+2866,Dettol Soap,Household,189
+2867,Tata Salt,Personal Care,182
+2868,Undefine,Household,334
+2869,Good Day Biscuit,Household,336
+2870,Good Day Biscuit,Dairy,151
+2871,Undefine,Grocery,0
+2872,Dettol Soap,unknown,165
+2873,Amul Milk,Dairy,161
+2874,Amul Milk,Grocery,125
+2875,Aashirvaad Atta,Bakery,289
+2876,Fortune Oil,Personal Care,239
+2877,Dettol Soap,Personal Care,25
+2878,Bourbon Biscuit,Household,122
+2879,Aashirvaad Atta,Grocery,275
+2880,Aashirvaad Atta,Personal Care,168
+2881,Aashirvaad Atta,Household,177
+2882,Undefine,Personal Care,17
+2883,Good Day Biscuit,Dairy,68
+2884,Fortune Oil,Dairy,203
+2885,Sunlight Soap,Grocery,256
+2886,Amul Milk,Household,346
+2887,Dettol Soap,Personal Care,85
+2888,Aashirvaad Atta,Household,176
+2889,Colgate,Bakery,339
+2890,Fortune Oil,Dairy,338
+2891,Good Day Biscuit,Grocery,23
+2892,Colgate,Household,251
+2893,Dettol Soap,Dairy,271
+2894,Bourbon Biscuit,Bakery,0
+2895,Good Day Biscuit,Dairy,127
+2896,Aashirvaad Atta,Household,387
+2897,Undefine,Household,279
+2898,Good Day Biscuit,Personal Care,270
+2899,Good Day Biscuit,Bakery,131
+2900,Amul Milk,Dairy,316
+2901,Dettol Soap,Bakery,24
+2902,Sunlight Soap,unknown,369
+2903,Fortune Oil,Personal Care,348
+2904,Good Day Biscuit,Dairy,72
+2905,Good Day Biscuit,Grocery,102
+2906,Tata Salt,Dairy,186
+2907,Good Day Biscuit,unknown,320
+2908,Good Day Biscuit,Household,347
+2909,Dettol Soap,Household,278
+2910,Dettol Soap,Bakery,100
+2911,Colgate,unknown,16
+2912,Aashirvaad Atta,unknown,251
+2913,Bourbon Biscuit,Personal Care,41
+2914,Good Day Biscuit,Household,257
+2915,Bourbon Biscuit,Bakery,379
+2916,Dettol Soap,Household,33
+2917,Sunlight Soap,Grocery,121
+2918,Sunlight Soap,Grocery,129
+2919,Tata Salt,Personal Care,231
+2920,Sunlight Soap,Household,142
+2921,Good Day Biscuit,Personal Care,104
+2922,Undefine,Grocery,59
+2923,Amul Milk,Household,399
+2924,Tata Salt,Dairy,260
+2925,Undefine,Personal Care,157
+2926,Tata Salt,Grocery,175
+2927,Bourbon Biscuit,Bakery,196
+2928,Dettol Soap,Grocery,71
+2929,Colgate,Personal Care,113
+2930,Dettol Soap,Personal Care,72
+2931,Fortune Oil,Household,297
+2932,Good Day Biscuit,Grocery,96
+2933,Amul Milk,Household,46
+2934,Aashirvaad Atta,Grocery,223
+2935,Colgate,Household,91
+2936,Colgate,Grocery,235
+2937,Dettol Soap,Household,372
+2938,Fortune Oil,Personal Care,160
+2939,Good Day Biscuit,Grocery,95
+2940,Bourbon Biscuit,Grocery,0
+2941,Sunlight Soap,Household,263
+2942,Colgate,Bakery,0
+2943,Bourbon Biscuit,Dairy,197
+2944,Fortune Oil,Personal Care,364
+2945,Bourbon Biscuit,Household,68
+2946,Dettol Soap,Personal Care,244
+2947,Colgate,Household,191
+2948,Dettol Soap,Personal Care,105
+2949,Fortune Oil,Bakery,201
+2950,Sunlight Soap,Bakery,239
+2951,Dettol Soap,Grocery,394
+2952,Aashirvaad Atta,Dairy,243
+2953,Fortune Oil,Grocery,345
+2954,Aashirvaad Atta,Bakery,89
+2955,Sunlight Soap,Personal Care,350
+2956,Amul Milk,Bakery,202
+2957,Colgate,unknown,21
+2958,Undefine,Household,166
+2959,Good Day Biscuit,Household,77
+2960,Sunlight Soap,Grocery,267
+2961,Bourbon Biscuit,Grocery,0
+2962,Sunlight Soap,Bakery,328
+2963,Amul Milk,Grocery,80
+2964,Fortune Oil,Personal Care,306
+2965,Fortune Oil,Bakery,0
+2966,Aashirvaad Atta,Bakery,351
+2967,Fortune Oil,Dairy,305
+2968,Good Day Biscuit,Grocery,270
+2969,Bourbon Biscuit,unknown,386
+2970,Amul Milk,Dairy,288
+2971,Good Day Biscuit,Household,270
+2972,Bourbon Biscuit,Grocery,55
+2973,Undefine,Grocery,86
+2974,Aashirvaad Atta,unknown,217
+2975,Fortune Oil,Dairy,179
+2976,Aashirvaad Atta,Personal Care,387
+2977,Colgate,Dairy,226
+2978,Undefine,Household,150
+2979,Amul Milk,Household,247
+2980,Good Day Biscuit,Bakery,142
+2981,Dettol Soap,Bakery,0
+2982,Amul Milk,Dairy,384
+2983,Sunlight Soap,Household,84
+2984,Tata Salt,Personal Care,0
+2985,Undefine,Dairy,107
+2986,Bourbon Biscuit,Household,0
+2987,Aashirvaad Atta,Personal Care,68
+2988,Aashirvaad Atta,unknown,55
+2989,Amul Milk,Bakery,298
+2990,Undefine,Household,393
+2991,Dettol Soap,Bakery,271
+2992,Amul Milk,Grocery,392
+2993,Good Day Biscuit,Household,368
+2994,Fortune Oil,Personal Care,0
+2995,Bourbon Biscuit,Grocery,250
+2996,Aashirvaad Atta,Grocery,33
+2997,Colgate,unknown,44
+2998,Bourbon Biscuit,Bakery,120
+2999,Aashirvaad Atta,Household,299
