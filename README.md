@@ -44,6 +44,4 @@ python -m venv .venv
 # or for Linux/Mac: source .venv/bin/activate
 pip install -r requirements.txt
 
-##for dashbord view
-![Dashboard Preview](https:Dashbord.PNG)
 
