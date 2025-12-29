@@ -45,5 +45,5 @@ python -m venv .venv
 pip install -r requirements.txt
 
 ##for dashbord view
-![Dashboard Preview](https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/assets/dashboard.png)
+![Dashboard Preview](https:Dashbord.PNG)
 
