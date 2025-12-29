@@ -43,3 +43,7 @@ python -m venv .venv
 .venv\Scripts\activate   # Windows
 # or for Linux/Mac: source .venv/bin/activate
 pip install -r requirements.txt
+
+##for dashbord view
+![Dashboard Preview](https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/assets/dashboard.png)
+
