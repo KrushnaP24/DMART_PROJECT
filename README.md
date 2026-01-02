@@ -20,7 +20,7 @@ Business Insights & Reports
 
 ## Dashboard Preview
 
-![DMART Dashboard](assets/dashboard_preview.PNG)
+![DMART Dashboard](assets/Dashbord.PNG)
 
 
 
