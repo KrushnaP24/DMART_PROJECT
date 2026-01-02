@@ -7,7 +7,7 @@ A data analytics project simulating DMART operations, including raw data, cleani
 ## Project Structure
 
 DMART_PROJECT/
-│
+|
 ├── data_raw/ # Raw CSV data files
 │ ├── customers_raw.csv
 │ ├── order_items_raw.csv
