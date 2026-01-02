@@ -6,27 +6,18 @@ A data analytics project simulating DMART operations, including raw data, cleani
 
 ## Project Structure
 
-DMART_PROJECT/
-|
-├── data_raw/ # Raw CSV data files
-│ ├── customers_raw.csv
-│ ├── order_items_raw.csv
-│ ├── orders_raw.csv
-│ └── products_raw.csv
-│
-├── scripts/ # Data cleaning and loading scripts
-│ ├── data_clean/ # Folder for intermediate cleaning scripts
-│ ├── cleaning.py # Script to clean raw data
-│ ├── load_to_mysql.py # Script to load cleaned data into MySQL
-│ ├── mysql_connector.py # MySQL connection helper
-│ └── init.py
-│
-├── dashboards/ # Superset or other dashboard files
-│ ├── superset_dashboard.html
-│ └── other_dashboard_files
-│
-├── dmart_architecture.drawio # Architecture diagram
-└── README.md # Project overview
+Raw Data Files (CSV)
+   ↓
+Data Cleaning Scripts (Python)
+   ↓
+MySQL Database
+   ↓
+SQL Queries & Analysis
+   ↓
+Power BI / Superset Dashboards
+   ↓
+Business Insights & Reports
+
 
 
 ---
@@ -43,5 +34,7 @@ python -m venv .venv
 .venv\Scripts\activate   # Windows
 # or for Linux/Mac: source .venv/bin/activate
 pip install -r requirements.txt
+
+
 
 
