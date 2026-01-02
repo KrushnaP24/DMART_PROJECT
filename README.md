@@ -18,6 +18,10 @@ Power BI / Superset Dashboards
    ↓
 Business Insights & Reports
 
+## Dashboard Preview
+
+![DMART Dashboard](assets/dashboard_preview.png)
+
 
 
 ---
@@ -32,6 +36,7 @@ cd DMART_PROJECT
 
 python -m venv .venv
 .venv\Scripts\activate   # Windows
+
 # or for Linux/Mac: source .venv/bin/activate
 pip install -r requirements.txt
 
