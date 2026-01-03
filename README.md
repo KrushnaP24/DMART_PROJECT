@@ -22,7 +22,7 @@ Business Insights & Reports
 
 ![DMART Dashboard](Dashbord.PNG)
 
-##📊 Dashboard Insights Summary
+## Dashboard Insights Summary
 
 1️⃣ Sales are growing every month
 
