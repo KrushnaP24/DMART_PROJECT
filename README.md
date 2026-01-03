@@ -22,7 +22,18 @@ Business Insights & Reports
 
 ![DMART Dashboard](Dashbord.PNG)
 
+##📊 Dashboard Insights Summary
+1️⃣ Sales are growing every month
+DMart sales keep increasing from January to December, which is a good sign for the business.
 
+2️⃣ Aashirvaad Atta sells the most
+Customers buy Aashirvaad Atta more than any other product.
+
+3️⃣ Mumbai store earns the highest sales
+The Mumbai store performs better than all other stores.
+
+4️⃣ People like digital payments
+Many customers pay using UPI and cards, not only cash.
 
 ---
 
